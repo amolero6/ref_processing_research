@@ -1,2 +1,3 @@
 # venv files
 .envref/*
+.DS_Store
