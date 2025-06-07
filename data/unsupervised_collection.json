@@ -2195,8 +2195,8 @@
       "select": "zotero://select/library/items/DS67HJ4Z"
     },
     {
-      "key": "CZF3AZD5",
-      "version": 8062,
+      "key": "IDNJ2RKV",
+      "version": 8859,
       "itemType": "journalArticle",
       "title": "Reconstruction-based anomaly detection for multivariate time series using contrastive generative adversarial networks",
       "abstractNote": "The majority of existing anomaly detection methods for multivariate time series are based on Transformers and Autoencoders owing to their superior capabilities. However, these methods are susceptible to overfitting when there is insufficient data. To address this issue, we propose a novel unsupervised anomaly detection framework, which seamlessly integrates contrastive learning and Generative Adversarial Networks. More concretely, we utilize data augmentation techniques that incorporate geometric distribution masks to expand our training data, thereby enhancing its diversity. Then, a Transformer-based Autoencoder is trained within a Generative Adversarial Network framework to capture the underlying distribution for normal points. Additionally, we incorporate a contrastive loss into our discriminator to effectively regulate the GAN and ensure good generalization. Finally, anomalies are detected based on reconstruction errors. Numerous experiments on five real-world datasets demonstrated that our proposed method can effectively mitigates overfitting issues and obtains superior performance compared to state-of-the-art approaches. In particular, our model could achieve an average improvement of 9.28% in Precision, 11.33% in Recall, and 11.73% in F1-score.",
@@ -2204,7 +2204,7 @@
       "language": "en",
       "libraryCatalog": "DOI.org (Crossref)",
       "url": "https://linkinghub.elsevier.com/retrieve/pii/S0306457323003060",
-      "accessDate": "2025-06-04T16:40:24Z",
+      "accessDate": "2025-06-04T16:36:44Z",
       "volume": "61",
       "pages": "103569",
       "publicationTitle": "Information Processing & Management",
@@ -2241,28 +2241,7 @@
       ],
       "tags": [
         {
-          "tag": "Transformer"
-        },
-        {
-          "tag": "notion"
-        },
-        {
           "tag": "1D input"
-        },
-        {
-          "tag": "GAN"
-        },
-        {
-          "tag": "Multivariate"
-        },
-        {
-          "tag": "PCA"
-        },
-        {
-          "tag": "High rated"
-        },
-        {
-          "tag": "Output residuals"
         },
         {
           "tag": "Anomaly Score: Static"
@@ -2271,66 +2250,99 @@
           "tag": "Fleet data"
         },
         {
+          "tag": "GAN"
+        },
+        {
           "tag": "Generic / Benchmark data"
         },
         {
+          "tag": "High rated"
+        },
+        {
+          "tag": "Multivariate"
+        },
+        {
+          "tag": "notion"
+        },
+        {
+          "tag": "Output residuals"
+        },
+        {
+          "tag": "PCA"
+        },
+        {
           "tag": "Reconstruction"
+        },
+        {
+          "tag": "Transformer"
         }
       ],
-      "relations": {},
-      "dateAdded": "2025-06-04T16:40:25Z",
-      "dateModified": "2025-06-06T11:35:51Z",
-      "uri": "http://zotero.org/users/13675710/items/CZF3AZD5",
-      "itemID": 1703,
+      "relations": {
+        "dc:replaces": [
+          "http://zotero.org/users/13675710/items/CZF3AZD5"
+        ]
+      },
+      "dateAdded": "2025-06-04T16:36:44Z",
+      "dateModified": "2025-06-07T08:24:53Z",
+      "uri": "http://zotero.org/users/13675710/items/IDNJ2RKV",
+      "itemID": 1704,
       "attachments": [
         {
-          "key": "36CH2FXT",
-          "version": 7946,
+          "key": "JRBTGQNE",
+          "version": 8859,
           "itemType": "attachment",
           "title": "Notion",
-          "url": "notion://www.notion.so/Miao-et-al-2024-2083c3c2f8f281008aa5fbc5b2de6020",
-          "accessDate": "2025-06-04T16:40:31Z",
-          "parentItem": "CZF3AZD5",
+          "url": "notion://www.notion.so/Miao-et-al-2024-2083c3c2f8f2817db450d723a53186f9",
+          "accessDate": "2025-06-04T16:36:53Z",
+          "parentItem": "IDNJ2RKV",
           "linkMode": "linked_url",
           "contentType": "",
           "charset": "",
-          "note": "<h2 style=\"background-color: #ff666680;\">Do not modify or delete!</h2>\n<p>This link attachment serves as a reference for\n<a href=\"https://github.com/dvanoni/notero\">Notero</a>\nso that it can properly update the Notion page for this item.</p>\n<p>Last synced: 6/5/2025, 6:22:20 PM</p>",
+          "note": "<h2 style=\"background-color: #ff666680;\">Do not modify or delete!</h2>\n<p>This link attachment serves as a reference for\n<a href=\"https://github.com/dvanoni/notero\">Notero</a>\nso that it can properly update the Notion page for this item.</p>\n<p>Last synced: 6/4/2025, 6:36:53 PM</p>",
           "tags": [],
-          "relations": {},
-          "dateAdded": "2025-06-04T16:40:31Z",
-          "dateModified": "2025-06-05T16:22:20Z",
-          "uri": "http://zotero.org/users/13675710/items/36CH2FXT"
+          "relations": {
+            "dc:replaces": [
+              "http://zotero.org/users/13675710/items/36CH2FXT"
+            ]
+          },
+          "dateAdded": "2025-06-04T16:36:53Z",
+          "dateModified": "2025-06-07T08:24:53Z",
+          "uri": "http://zotero.org/users/13675710/items/JRBTGQNE"
         },
         {
           "itemType": "attachment",
           "title": "PDF",
           "tags": [],
-          "relations": {},
-          "dateAdded": "2025-06-04T16:40:18Z",
-          "dateModified": "2025-06-04T16:40:28Z",
-          "uri": "http://zotero.org/users/13675710/items/92F8DELW",
-          "path": "/Users/Adri/Library/CloudStorage/GoogleDrive-adria.molero@upc.edu/Mi unidad/Zotero/storage/92F8DELW/Miao et al. - 2024 - Reconstruction-based anomaly detection for multivariate time series using contrastive generative adv.pdf",
-          "select": "zotero://select/library/items/92F8DELW"
+          "relations": {
+            "dc:replaces": [
+              "http://zotero.org/users/13675710/items/92F8DELW"
+            ]
+          },
+          "dateAdded": "2025-06-04T16:36:31Z",
+          "dateModified": "2025-06-07T08:24:53Z",
+          "uri": "http://zotero.org/users/13675710/items/RBILNQ2Y",
+          "path": "/Users/Adri/Library/CloudStorage/GoogleDrive-adria.molero@upc.edu/Mi unidad/Zotero/storage/RBILNQ2Y/Miao et al. - 2024 - Reconstruction-based anomaly detection for multivariate time series using contrastive generative adv.pdf",
+          "select": "zotero://select/library/items/RBILNQ2Y"
         }
       ],
       "notes": [
         {
           "key": "BDLE45WI",
-          "version": 7942,
+          "version": 8859,
           "itemType": "note",
-          "parentItem": "CZF3AZD5",
+          "parentItem": "IDNJ2RKV",
           "note": "<div data-schema-version=\"9\"><p>Good paper that performs UAD on multivariate time series data (on public datasets) using GAN + Transformer</p>\n</div>",
           "tags": [],
           "relations": {},
           "dateAdded": "2025-06-05T16:18:55Z",
-          "dateModified": "2025-06-05T16:19:17Z",
+          "dateModified": "2025-06-07T08:24:53Z",
           "uri": "http://zotero.org/users/13675710/items/BDLE45WI"
         }
       ],
       "citationKey": "miaoReconstructionbasedAnomalyDetection2024",
-      "itemKey": "CZF3AZD5",
+      "itemKey": "IDNJ2RKV",
       "libraryID": 1,
-      "select": "zotero://select/library/items/CZF3AZD5"
+      "select": "zotero://select/library/items/IDNJ2RKV"
     },
     {
       "key": "5LTW9XBY",
@@ -5020,202 +5032,6 @@
       "itemKey": "2JAEYVLB",
       "libraryID": 1,
       "select": "zotero://select/library/items/2JAEYVLB"
-    },
-    {
-      "key": "ALHBT2Z8",
-      "version": 8715,
-      "itemType": "preprint",
-      "title": "A Deep Neural Network for Unsupervised Anomaly Detection and Diagnosis in Multivariate Time Series Data",
-      "abstractNote": "Nowadays, multivariate time series data are increasingly collected in various real world systems, e.g., power plants, wearable devices, etc. Anomaly detection and diagnosis in multivariate time series refer to identifying abnormal status in certain time steps and pinpointing the root causes. Building such a system, however, is challenging since it not only requires to capture the temporal dependency in each time series, but also need encode the inter-correlations between different pairs of time series. In addition, the system should be robust to noise and provide operators with different levels of anomaly scores based upon the severity of different incidents. Despite the fact that a number of unsupervised anomaly detection algorithms have been developed, few of them can jointly address these challenges. In this paper, we propose a Multi-Scale Convolutional Recurrent Encoder-Decoder (MSCRED), to perform anomaly detection and diagnosis in multivariate time series data. Specifically, MSCRED first constructs multi-scale (resolution) signature matrices to characterize multiple levels of the system statuses in different time steps. Subsequently, given the signature matrices, a convolutional encoder is employed to encode the inter-sensor (time series) correlations and an attention based Convolutional Long-Short Term Memory (ConvLSTM) network is developed to capture the temporal patterns. Finally, based upon the feature maps which encode the inter-sensor correlations and temporal information, a convolutional decoder is used to reconstruct the input signature matrices and the residual signature matrices are further utilized to detect and diagnose anomalies. Extensive empirical studies based on a synthetic dataset and a real power plant dataset demonstrate that MSCRED can outperform state-of-the-art baseline methods.",
-      "date": "2018-11-19",
-      "libraryCatalog": "arXiv.org",
-      "url": "http://arxiv.org/abs/1811.08055",
-      "accessDate": "2024-03-02T10:29:12Z",
-      "extra": "arXiv:1811.08055 [cs, stat]",
-      "DOI": "https://doi.org/10.1609/aaai.v33i01.33011409",
-      "repository": "arXiv",
-      "archiveID": "arXiv:1811.08055",
-      "creators": [
-        {
-          "firstName": "Chuxu",
-          "lastName": "Zhang",
-          "creatorType": "author"
-        },
-        {
-          "firstName": "Dongjin",
-          "lastName": "Song",
-          "creatorType": "author"
-        },
-        {
-          "firstName": "Yuncong",
-          "lastName": "Chen",
-          "creatorType": "author"
-        },
-        {
-          "firstName": "Xinyang",
-          "lastName": "Feng",
-          "creatorType": "author"
-        },
-        {
-          "firstName": "Cristian",
-          "lastName": "Lumezanu",
-          "creatorType": "author"
-        },
-        {
-          "firstName": "Wei",
-          "lastName": "Cheng",
-          "creatorType": "author"
-        },
-        {
-          "firstName": "Jingchao",
-          "lastName": "Ni",
-          "creatorType": "author"
-        },
-        {
-          "firstName": "Bo",
-          "lastName": "Zong",
-          "creatorType": "author"
-        },
-        {
-          "firstName": "Haifeng",
-          "lastName": "Chen",
-          "creatorType": "author"
-        },
-        {
-          "firstName": "Nitesh V.",
-          "lastName": "Chawla",
-          "creatorType": "author"
-        }
-      ],
-      "tags": [
-        {
-          "tag": "2D input"
-        },
-        {
-          "tag": "Anomaly detection"
-        },
-        {
-          "tag": "Anomaly Score: Static"
-        },
-        {
-          "tag": "Autoencoder"
-        },
-        {
-          "tag": "Classified"
-        },
-        {
-          "tag": "Computer Science - Machine Learning",
-          "type": 1
-        },
-        {
-          "tag": "Deep Learning"
-        },
-        {
-          "tag": "Ensemble (CNN + Attention + LSTM)"
-        },
-        {
-          "tag": "Fault classification"
-        },
-        {
-          "tag": "High rated"
-        },
-        {
-          "tag": "Multivariate"
-        },
-        {
-          "tag": "notion"
-        },
-        {
-          "tag": "Output residuals"
-        },
-        {
-          "tag": "Power plant"
-        },
-        {
-          "tag": "Read"
-        },
-        {
-          "tag": "Reconstruction"
-        },
-        {
-          "tag": "RPlan: A"
-        },
-        {
-          "tag": "Single entity"
-        },
-        {
-          "tag": "Statistics - Machine Learning",
-          "type": 1
-        },
-        {
-          "tag": "U-net"
-        }
-      ],
-      "relations": {},
-      "dateAdded": "2024-03-02T10:29:12Z",
-      "dateModified": "2025-06-06T16:46:04Z",
-      "uri": "http://zotero.org/users/13675710/items/ALHBT2Z8",
-      "itemID": 3,
-      "attachments": [
-        {
-          "itemType": "attachment",
-          "title": "arXiv Fulltext PDF",
-          "tags": [],
-          "relations": {},
-          "dateAdded": "2024-03-02T10:29:12Z",
-          "dateModified": "2024-03-02T10:29:12Z",
-          "uri": "http://zotero.org/users/13675710/items/ZKBDNAEE",
-          "path": "/Users/Adri/Library/CloudStorage/GoogleDrive-adria.molero@upc.edu/Mi unidad/Zotero/storage/ZKBDNAEE/Zhang et al. - 2018 - A Deep Neural Network for Unsupervised Anomaly Det.pdf",
-          "select": "zotero://select/library/items/ZKBDNAEE"
-        },
-        {
-          "itemType": "attachment",
-          "title": "arXiv.org Snapshot",
-          "tags": [],
-          "relations": {},
-          "dateAdded": "2024-03-02T10:29:20Z",
-          "dateModified": "2024-03-02T10:29:20Z",
-          "uri": "http://zotero.org/users/13675710/items/ZAXTGWWN",
-          "path": "/Users/Adri/Library/CloudStorage/GoogleDrive-adria.molero@upc.edu/Mi unidad/Zotero/storage/ZAXTGWWN/1811.html",
-          "select": "zotero://select/library/items/ZAXTGWWN"
-        },
-        {
-          "key": "Y9JLMZCI",
-          "version": 8716,
-          "itemType": "attachment",
-          "title": "Notion",
-          "url": "notion://www.notion.so/Zhang-et-al-2018-37fab1c18b3b4103991759537fde5d7d",
-          "accessDate": "2024-03-16T11:37:45Z",
-          "parentItem": "ALHBT2Z8",
-          "linkMode": "linked_url",
-          "contentType": "",
-          "charset": "",
-          "note": "<h2 style=\"background-color: #ff666680;\">Do not modify or delete!</h2>\n<p>This link attachment serves as a reference for\n<a href=\"https://github.com/dvanoni/notero\">Notero</a>\nso that it can properly update the Notion page for this item.</p>\n<p>Last synced: 6/6/2025, 18:46:10</p>\n<pre id=\"notero-synced-notes\">{\"containerBlockID\":\"2053c3c2-f8f2-8134-b66d-ef4e0b307007\",\"notes\":{\"QXXYSC4R\":{\"blockID\":\"2053c3c2-f8f2-8159-b663-c4693f5c10d7\",\"syncedAt\":\"2025-06-01T09:01:08.830Z\"}}}</pre>",
-          "tags": [],
-          "relations": {},
-          "dateAdded": "2024-03-16T11:37:45Z",
-          "dateModified": "2025-06-06T16:46:10Z",
-          "uri": "http://zotero.org/users/13675710/items/Y9JLMZCI"
-        }
-      ],
-      "notes": [
-        {
-          "key": "QXXYSC4R",
-          "version": 6894,
-          "itemType": "note",
-          "parentItem": "ALHBT2Z8",
-          "note": "<div data-schema-version=\"9\"><p>Fault classification is done by ranking anomalies and identifying which time series has the highest anomaly score</p>\n</div>",
-          "tags": [],
-          "relations": {},
-          "dateAdded": "2025-06-01T09:00:49Z",
-          "dateModified": "2025-06-01T09:01:04Z",
-          "uri": "http://zotero.org/users/13675710/items/QXXYSC4R"
-        }
-      ],
-      "citationKey": "zhangDeepNeuralNetwork2018",
-      "itemKey": "ALHBT2Z8",
-      "libraryID": 1,
-      "select": "zotero://select/library/items/ALHBT2Z8"
     },
     {
       "key": "SLNU5VEA",

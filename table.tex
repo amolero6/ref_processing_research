@@ -1,55 +1,54 @@
 \begin{landscape}
 \begin{longtable}{lllll}
-\caption{Tabla simplificada con columnas clave}\label{tab:my_table} \\ 
+\caption{Summary table of papers for UAD in Time Series}\label{tab:unsupervised_table} \\ 
 \toprule
-Paper title & Publication Year & Method type & Architecture type & Base model \\ 
+Paper title & Publication Year & Method type & Base model & Component type & Fleet data & Interpretability \\ 
 \midrule
 \endfirsthead
 \toprule
-Paper title & Publication Year & Method type & Architecture type & Base model \\ 
+Paper title & Publication Year & Method type & Base model & Component type & Fleet data & Interpretability \\ 
 \midrule
 \endhead
 \bottomrule
 \endfoot
-\begin{tabular}{lllll}
+\begin{tabular}{lllllll}
 \toprule
-Paper title & Publication Year & Method_type & Architecture_type & Base_model \\
+Paper title & Publication Year & Method_type & Base_model & Component_type & Fleet_data & Interpretability \\
 \midrule
-\cite{alnegheimishM2ADMultiSensorMultiSystem2025} & 2025 & Forecasting-based & Direct model & LSTM \\
-\cite{yanUnsupervisedLearningMachinery2024} & 2024 & Reconstruction & Autoencoder & MLP \\
-\cite{namBreakingTimeFrequencyGranularity2024} & 2024 & Reconstruction & Direct model & Transformer \\
-\cite{milkovicFRAnomalyFlowbasedRapid2024} & 2024 & Representation & Normalizing Flow & CNN \\
-\cite{miaoReconstructionbasedAnomalyDetection2024} & 2024 & Reconstruction & GAN & Transformer \\
-\cite{leeExplainableTimeSeries2024} & 2024 & Representation & Autoencoder & MLP \\
-\cite{najafiAttentionAutoencoderHybrid2024} & 2024 & Forecasting-based & Autoencoder & Transformer \\
-\cite{kangFaultAnomalyDetection2024} & 2024 & Representation & Custom Transformer & Transformer \\
-\cite{yangSelfSupervisedLearningSignal2023} & 2023 & Reconstruction & Autoencoder & Transformer \\
-\cite{baidyaAnomalyDetectionTime2023} & 2023 & Reconstruction & Autoencoder & Transformer \\
-\cite{yangDDMTDenoisingDiffusion2023} & 2023 & Reconstruction & AE + Diffusion & Transformer \\
-\cite{liDCTGANDilatedConvolutional2023} & 2023 & Reconstruction & GAN & Transformer \\
-\cite{wuDecomposeAutoTransformerTime2023} & 2023 & Reconstruction & Autoencoder & Transformer \\
-\cite{yuFastAdaptionMulti2022} & 2022 & Reconstruction & Autoencoder & MLP \\
-\cite{gargEvaluationAnomalyDetection2022} & 2022 & Reconstruction & Autoencoder & MLP \\
-\cite{chiBearingFaultDiagnosis2022} & 2022 & Representation & Autoencoder & Transformer \\
-\cite{neupaneTemporalAnomalyDetection2022} & 2022 & Representation & Direct model & TCN \\
-\cite{tuliTranADDeepTransformer2022} & 2022 & Reconstruction & Autoencoder & Transformer \\
-\cite{xuAnomalyTransformerTime2022} & 2022 & Reconstruction & AE + Transformer & Transformer \\
-\cite{velasco-gallegoRADISRealtimeAnomaly2022} & 2022 & Representation & Variable Autoencoder & LSTM \\
-\cite{arellano-espitiaDeepCompactClusteringBasedAnomaly2021} & 2021 & Reconstruction & Autoencoder & MLP \\
-\cite{thillTemporalConvolutionalAutoencoder2021} & 2021 & Reconstruction & Autoencoder & CNN \\
-\cite{liuDeepAnomalyDetection2021} & 2021 & Forecasting-based & Direct model & CNN \\
-\cite{huNovelVehicleGearbox2021} & 2021 & Representation & SL & GMM \\
-\cite{minghuzhangDataDrivenAnomalyDetection2020} & 2020 & Forecasting-based & Direct model & LSTM \\
-\cite{ellefsenOnlineFaultDetection2020} & 2020 & Reconstruction & Variable Autoencoder & MLP \\
-\cite{kimSemiSupervisedAutoencoderAuxiliary2020} & 2020 & Representation & Autoencoder & MLP \\
-\cite{zhangDeepNeuralNetwork2019} & 2019 & Reconstruction & U-net & Ensemble (CNN + Attention + LSTM) \\
-\cite{zhangDynamicConditionMonitoring2019} & 2019 & Reconstruction & Autoencoder & MLP \\
-\cite{songUnsupervisedFaultDiagnosis2019} & 2019 & Representation & SL & IMMSC \\
-\cite{munirFuseADUnsupervisedAnomaly2019} & 2019 & Forecasting-based & Autoencoder & CNN \\
-\cite{zhangDeepNeuralNetwork2018} & 2018 & Reconstruction & Autoencoder & Ensemble (CNN + Attention + LSTM) \\
-\cite{helsenFleetwideConditionMonitoring2018} & 2018 & Representation & SL & MOPA \\
-\cite{shipmonTimeSeriesAnomaly2017} & 2017 & Reconstruction & Direct model & MLP \\
-\cite{zhouAnomalyDetectionRobust2017} & 2017 & Reconstruction & Autoencoder & MLP \\
+\cite{alnegheimishM2ADMultiSensorMultiSystem2025} & 2025 & Forecasting-based & LSTM & Benchmark data & Fleet data & Output residuals \\
+\cite{kangFaultAnomalyDetection2024} & 2024 & Representation & Transformer & Aero engine & Single entity & \texttimes \\
+\cite{yanUnsupervisedLearningMachinery2024} & 2024 & Reconstruction & MLP & bearings & Single entity & \texttimes \\
+\cite{namBreakingTimeFrequencyGranularity2024} & 2024 & Reconstruction & Transformer & Benchmark data & Fleet data & \texttimes \\
+\cite{milkovicFRAnomalyFlowbasedRapid2024} & 2024 & Representation & CNN & Benchmark data & Single entity & Output residuals \\
+\cite{miaoReconstructionbasedAnomalyDetection2024} & 2024 & Reconstruction & Transformer & Benchmark data & Fleet data & Output residuals \\
+\cite{leeExplainableTimeSeries2024} & 2024 & Representation & MLP & Benchmark data & Single entity & Output residuals \\
+\cite{najafiAttentionAutoencoderHybrid2024} & 2024 & Forecasting-based & Transformer & Benchmark data & Single entity & Output residuals \\
+\cite{yangSelfSupervisedLearningSignal2023} & 2023 & Reconstruction & Transformer & bearings & Single entity & Latent + Res. \\
+\cite{baidyaAnomalyDetectionTime2023} & 2023 & Reconstruction & Transformer & Benchmark data & Single entity & \texttimes \\
+\cite{yangDDMTDenoisingDiffusion2023} & 2023 & Reconstruction & Transformer & Benchmark data & Single entity & \texttimes \\
+\cite{liDCTGANDilatedConvolutional2023} & 2023 & Reconstruction & Transformer & Benchmark data & Single entity & \texttimes \\
+\cite{wuDecomposeAutoTransformerTime2023} & 2023 & Reconstruction & Transformer & Benchmark data & Single entity & Output residuals \\
+\cite{xuAnomalyTransformerTime2022} & 2022 & Reconstruction & Transformer & Benchmark data & Single entity & Output residuals \\
+\cite{velasco-gallegoRADISRealtimeAnomaly2022} & 2022 & Representation & LSTM & Marine engine & Single entity & \texttimes \\
+\cite{tuliTranADDeepTransformer2022} & 2022 & Reconstruction & Transformer & Benchmark data & Single entity & Output residuals \\
+\cite{yuFastAdaptionMulti2022} & 2022 & Reconstruction & MLP & Diesel engine & Single entity & \texttimes \\
+\cite{neupaneTemporalAnomalyDetection2022} & 2022 & Representation & TCN & Vehicle & Single entity & \texttimes \\
+\cite{chiBearingFaultDiagnosis2022} & 2022 & Representation & Transformer & bearings & Single entity & Attention + Res. \\
+\cite{gargEvaluationAnomalyDetection2022} & 2022 & Reconstruction & MLP & Benchmark data & Fleet data & \texttimes \\
+\cite{arellano-espitiaDeepCompactClusteringBasedAnomaly2021} & 2021 & Reconstruction & MLP & bearings & Single entity & Latent space \\
+\cite{thillTemporalConvolutionalAutoencoder2021} & 2021 & Reconstruction & CNN & ECG data & Fleet data & Output residuals \\
+\cite{liuDeepAnomalyDetection2021} & 2021 & Forecasting-based & CNN & Engine & Single entity & \texttimes \\
+\cite{huNovelVehicleGearbox2021} & 2021 & Representation & Shallow learning & Gearbox & Single entity & \texttimes \\
+\cite{kimSemiSupervisedAutoencoderAuxiliary2020} & 2020 & Representation & MLP & Chemical plant & Single entity & \texttimes \\
+\cite{minghuzhangDataDrivenAnomalyDetection2020} & 2020 & Forecasting-based & LSTM & IoT devices & Fleet data & \texttimes \\
+\cite{ellefsenOnlineFaultDetection2020} & 2020 & Reconstruction & MLP & Diesel engine & Single entity & \texttimes \\
+\cite{zhangDeepNeuralNetwork2019} & 2019 & Reconstruction & CNN+Att.+LSTM & Power plant & Single entity & Output residuals \\
+\cite{zhangDynamicConditionMonitoring2019} & 2019 & Reconstruction & MLP & 3D printer & Single entity & \texttimes \\
+\cite{songUnsupervisedFaultDiagnosis2019} & 2019 & Representation & Shallow learning & bearings & Single entity & \texttimes \\
+\cite{munirFuseADUnsupervisedAnomaly2019} & 2019 & Forecasting-based & CNN & Benchmark data & Single entity & Output residuals \\
+\cite{helsenFleetwideConditionMonitoring2018} & 2018 & Representation & Shallow learning & Wind turbine & Fleet data & \texttimes \\
+\cite{shipmonTimeSeriesAnomaly2017} & 2017 & Reconstruction & MLP & Benchmark data & Single entity & Output residuals \\
+\cite{zhouAnomalyDetectionRobust2017} & 2017 & Reconstruction & MLP & Benchmark data & Single entity & \texttimes \\
 \bottomrule
 \end{tabular}
 
