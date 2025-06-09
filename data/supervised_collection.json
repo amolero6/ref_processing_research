@@ -405,7 +405,7 @@
     },
     {
       "key": "8KH8JTC6",
-      "version": 8999,
+      "version": 9331,
       "itemType": "journalArticle",
       "title": "Deep-Learning-Based Methodology for Fault Diagnosis in Electromechanical Systems",
       "abstractNote": "Fault diagnosis in manufacturing systems represents one of the most critical challenges dealing with condition-based monitoring in the recent era of smart manufacturing. In the current Industry 4.0 framework, maintenance strategies based on traditional data-driven fault diagnosis schemes require enhanced capabilities to be applied over modern production systems. In fact, the integration of multiple mechanical components, the consideration of multiple operating conditions, and the appearance of combined fault patterns due to eventual multi-fault scenarios lead to complex electromechanical systems requiring advanced monitoring strategies. In this regard, data fusion schemes supported with advanced deep learning technology represent a promising approach towards a big data paradigm using cloud-based software services. However, the deep learning models’ structure and hyper-parameters selection represent the main limitation when applied. Thus, in this paper, a novel deep-learning-based methodology for fault diagnosis in electromechanical systems is presented. The main beneﬁts of the proposed methodology are the easiness of application and high adaptability to available data. The methodology is supported by an unsupervised stacked auto-encoders and a supervised discriminant analysis.",
@@ -490,7 +490,7 @@
           "tag": "MC classification"
         },
         {
-          "tag": "NN"
+          "tag": "MLP"
         },
         {
           "tag": "notion"
@@ -513,7 +513,7 @@
       ],
       "relations": {},
       "dateAdded": "2024-10-23T15:05:34Z",
-      "dateModified": "2025-06-08T12:07:42Z",
+      "dateModified": "2025-06-09T07:40:41Z",
       "uri": "http://zotero.org/users/13675710/items/8KH8JTC6",
       "itemID": 633,
       "attachments": [
@@ -530,7 +530,7 @@
         },
         {
           "key": "ZXYUVUB7",
-          "version": 9000,
+          "version": 9332,
           "itemType": "attachment",
           "title": "Notion",
           "url": "notion://www.notion.so/Arellano-Espitia-et-al-2020-1283c3c2f8f281e2adc9e65584d81b84",
@@ -539,11 +539,11 @@
           "linkMode": "linked_url",
           "contentType": "",
           "charset": "",
-          "note": "<h2 style=\"background-color: #ff666680;\">Do not modify or delete!</h2>\n<p>This link attachment serves as a reference for\n<a href=\"https://github.com/dvanoni/notero\">Notero</a>\nso that it can properly update the Notion page for this item.</p>\n<p>Last synced: 8/6/2025, 14:07:48</p>\n<pre id=\"notero-synced-notes\">{\"containerBlockID\":\"2053c3c2-f8f2-81dd-aab6-d8e525b43eb5\",\"notes\":{\"N4EBYU55\":{\"blockID\":\"2053c3c2-f8f2-81d9-bdd8-fa698546302f\",\"syncedAt\":\"2025-06-01T16:37:42.612Z\"}}}</pre>",
+          "note": "<h2 style=\"background-color: #ff666680;\">Do not modify or delete!</h2>\n<p>This link attachment serves as a reference for\n<a href=\"https://github.com/dvanoni/notero\">Notero</a>\nso that it can properly update the Notion page for this item.</p>\n<p>Last synced: 9/6/2025, 9:40:45</p>\n<pre id=\"notero-synced-notes\">{\"containerBlockID\":\"2053c3c2-f8f2-81dd-aab6-d8e525b43eb5\",\"notes\":{\"N4EBYU55\":{\"blockID\":\"2053c3c2-f8f2-81d9-bdd8-fa698546302f\",\"syncedAt\":\"2025-06-01T16:37:42.612Z\"}}}</pre>",
           "tags": [],
           "relations": {},
           "dateAdded": "2024-10-23T15:05:37Z",
-          "dateModified": "2025-06-08T12:07:48Z",
+          "dateModified": "2025-06-09T07:40:45Z",
           "uri": "http://zotero.org/users/13675710/items/ZXYUVUB7"
         }
       ],
@@ -877,7 +877,7 @@
     },
     {
       "key": "2CVM9HF3",
-      "version": 9032,
+      "version": 9342,
       "itemType": "journalArticle",
       "title": "Compact convolutional transformers- generative adversarial network for compound fault diagnosis of industrial robot",
       "abstractNote": "The safe operation of Industrial robots is a major concern in intelligent manufacturing. Accurate compound fault diagnosis is essential to the safe operation of industrial robots, while it is challenging to achieve since the compound fault samples are hard to be collected. Generative adversarial network (GAN) is a useful tool for addressing the data imbalance issue. However, the computation efficiency of GAN in addressing the data imbalance issue has not been investigated. Hence, this study proposes a lightweight GAN named compact con­ volutional Transformers-GAN (CCT-GAN) to alleviate the data imbalance issue in compound fault diagnosis modelling. Firstly, the feedback current signals collected from the industrial robot are transformed into timefrequency images via continuous wavelet transformation (CWT). Secondly, CCT-GAN is designed to achieve high-quality fake data generation and compound fault diagnosis modelling without large computational costs. Thirdly, the relation between a single fault and the compound fault is considered in the compound fault diagnosis modelling via multi-hot representation to alleviate the data imbalance issue. An experimental study based on the real-world compound fault dataset of industrial robots reveals that the proposed CCT-GAN shows merits in compound fault diagnosis modelling in comparison with the prevailing algorithms. The results indicate that CCTGAN can performance of compound fault diagnosis when only 100 data samples from each compound fault category are available.",
@@ -939,6 +939,9 @@
           "tag": "Industrial data"
         },
         {
+          "tag": "Industrial robot"
+        },
+        {
           "tag": "Interpretability: Not addressed"
         },
         {
@@ -962,7 +965,7 @@
       ],
       "relations": {},
       "dateAdded": "2024-11-15T16:34:32Z",
-      "dateModified": "2025-06-08T12:17:16Z",
+      "dateModified": "2025-06-09T07:54:48Z",
       "uri": "http://zotero.org/users/13675710/items/2CVM9HF3",
       "itemID": 634,
       "attachments": [
@@ -979,7 +982,7 @@
         },
         {
           "key": "Q9L2EQ3Q",
-          "version": 9032,
+          "version": 9343,
           "itemType": "attachment",
           "title": "Notion",
           "url": "notion://www.notion.so/Chen-et-al-2024-13f3c3c2f8f28133841af0375c3884aa",
@@ -988,11 +991,11 @@
           "linkMode": "linked_url",
           "contentType": "",
           "charset": "",
-          "note": "<h2 style=\"background-color: #ff666680;\">Do not modify or delete!</h2>\n<p>This link attachment serves as a reference for\n<a href=\"https://github.com/dvanoni/notero\">Notero</a>\nso that it can properly update the Notion page for this item.</p>\n<p>Last synced: 8/6/2025, 14:17:19</p>\n<pre id=\"notero-synced-notes\">{\"containerBlockID\":\"2053c3c2-f8f2-81d6-9e06-d84f8c1c75cd\",\"notes\":{\"T9I3ADK9\":{\"blockID\":\"2053c3c2-f8f2-81be-b1c9-f48d1d84592f\",\"syncedAt\":\"2025-06-01T08:28:52.663Z\"}}}</pre>",
+          "note": "<h2 style=\"background-color: #ff666680;\">Do not modify or delete!</h2>\n<p>This link attachment serves as a reference for\n<a href=\"https://github.com/dvanoni/notero\">Notero</a>\nso that it can properly update the Notion page for this item.</p>\n<p>Last synced: 9/6/2025, 9:54:52</p>\n<pre id=\"notero-synced-notes\">{\"containerBlockID\":\"2053c3c2-f8f2-81d6-9e06-d84f8c1c75cd\",\"notes\":{\"T9I3ADK9\":{\"blockID\":\"2053c3c2-f8f2-81be-b1c9-f48d1d84592f\",\"syncedAt\":\"2025-06-01T08:28:52.663Z\"}}}</pre>",
           "tags": [],
           "relations": {},
           "dateAdded": "2024-11-15T16:34:38Z",
-          "dateModified": "2025-06-08T12:17:19Z",
+          "dateModified": "2025-06-09T07:54:52Z",
           "uri": "http://zotero.org/users/13675710/items/Q9L2EQ3Q"
         }
       ],
@@ -1017,7 +1020,7 @@
     },
     {
       "key": "AQTNGU6D",
-      "version": 9038,
+      "version": 9344,
       "itemType": "journalArticle",
       "title": "Intelligent Fault Diagnosis With Noisy Labels via Semisupervised Learning on Industrial Time Series",
       "abstractNote": "Deep neural networks (DNNs) excel at industrial fault diagnosis. Their performance heavily relies on the quality of human-annotated labels. Due to perception limitations of annotators, industrial time series samples (such as vibration and voltage signals) are frequently mislabeled in several conditions, such as samples with frequency domain feature differences and samples on class borders. Hence, an annotated industrial dataset will inevitably contain noisy labels at a certain level, leading to overﬁtting and poor generalization of DNNs. In this work, we introduce an industrial noisy label semisupervised learning (INL-SSL) fault diagnosis approach, addressing the problem that a certain number of samples in an industrial dataset are mislabeled. The proposed INL-SSL architecture simultaneously trains two DNNs, which cross-train on each other to ﬁlter noisy label errors. In particular, a ﬁtted Gaussian mixture model divides time series samples of each DNN ﬂow into an unlabeled set with samples likely to be noisy and a labeled set with samples likely to be clean. Given the labeled and unlabeled data, we proposed a time series MixMatch semisupervised learning strategy to train the diagnostic model. Ablation study veriﬁes the beneﬁt of the proposed time series augmentation techniques for semisupervised training. Extensive experiments on a benchmark industrial dataset of rolling element bearings (REB) reveal that the INL-SSL outperforms state-of-the-art approaches. On another self-collected REB dataset, the proposed approach also exceeds other comparison methods under noise ratios from 20% to 90%, validating the model’s generalizability.",
@@ -1082,7 +1085,7 @@
           "tag": "MC classification"
         },
         {
-          "tag": "NN"
+          "tag": "MLP"
         },
         {
           "tag": "notion"
@@ -1096,7 +1099,7 @@
       ],
       "relations": {},
       "dateAdded": "2024-04-17T15:13:46Z",
-      "dateModified": "2025-06-08T12:18:14Z",
+      "dateModified": "2025-06-09T07:56:06Z",
       "uri": "http://zotero.org/users/13675710/items/AQTNGU6D",
       "itemID": 300,
       "attachments": [
@@ -1113,7 +1116,7 @@
         },
         {
           "key": "XTWJ5G7K",
-          "version": 9040,
+          "version": 9345,
           "itemType": "attachment",
           "title": "Notion",
           "url": "notion://www.notion.so/Cheng-et-al-2023-009e32f60e4b4a5e84945866dc1e8788",
@@ -1122,11 +1125,11 @@
           "linkMode": "linked_url",
           "contentType": "",
           "charset": "",
-          "note": "<h2 style=\"background-color: #ff666680;\">Do not modify or delete!</h2>\n<p>This link attachment serves as a reference for\n<a href=\"https://github.com/dvanoni/notero\">Notero</a>\nso that it can properly update the Notion page for this item.</p>\n<p>Last synced: 8/6/2025, 14:18:19</p>\n<pre id=\"notero-synced-notes\">{\"containerBlockID\":\"2053c3c2-f8f2-81ac-b520-e800398ad3b7\",\"notes\":{\"Q28PA8BX\":{\"blockID\":\"2053c3c2-f8f2-8176-bd90-f666f1e760f9\",\"syncedAt\":\"2025-06-01T11:12:54.133Z\"}}}</pre>",
+          "note": "<h2 style=\"background-color: #ff666680;\">Do not modify or delete!</h2>\n<p>This link attachment serves as a reference for\n<a href=\"https://github.com/dvanoni/notero\">Notero</a>\nso that it can properly update the Notion page for this item.</p>\n<p>Last synced: 9/6/2025, 9:56:09</p>\n<pre id=\"notero-synced-notes\">{\"containerBlockID\":\"2053c3c2-f8f2-81ac-b520-e800398ad3b7\",\"notes\":{\"Q28PA8BX\":{\"blockID\":\"2053c3c2-f8f2-8176-bd90-f666f1e760f9\",\"syncedAt\":\"2025-06-01T11:12:54.133Z\"}}}</pre>",
           "tags": [],
           "relations": {},
           "dateAdded": "2024-04-21T17:21:29Z",
-          "dateModified": "2025-06-08T12:18:19Z",
+          "dateModified": "2025-06-09T07:56:09Z",
           "uri": "http://zotero.org/users/13675710/items/XTWJ5G7K"
         }
       ],
@@ -1302,7 +1305,7 @@
     },
     {
       "key": "U7ZYCVKB",
-      "version": 9045,
+      "version": 9350,
       "itemType": "journalArticle",
       "title": "Fault Diagnosis Method for Imbalanced Data Based on Multi-Signal Fusion and Improved Deep Convolution Generative Adversarial Network",
       "abstractNote": "The realization of accurate fault diagnosis is crucial to ensure the normal operation of machines. At present, an intelligent fault diagnosis method based on deep learning has been widely applied in mechanical areas due to its strong ability of feature extraction and accurate identiﬁcation. However, it often depends on enough training samples. Generally, the model performance depends on sufﬁcient training samples. However, the fault data are always insufﬁcient in practical engineering as the mechanical equipment often works under normal conditions, resulting in imbalanced data. Deep learning-based models trained directly with the imbalanced data will greatly reduce the diagnosis accuracy. In this paper, a diagnosis method is proposed to address the imbalanced data problem and enhance the diagnosis accuracy. Firstly, signals from multiple sensors are processed by the wavelet transform to enhance data features, which are then squeezed and fused through pooling and splicing operations. Subsequently, improved adversarial networks are constructed to generate new samples for data augmentation. Finally, an improved residual network is constructed by introducing the convolutional block attention module for enhancing the diagnosis performance. The experiments containing two different types of bearing datasets are adopted to validate the effectiveness and superiority of the proposed method in single-class and multi-class data imbalance cases. The results show that the proposed method can generate high-quality synthetic samples and improve the diagnosis accuracy presenting great potential in imbalanced fault diagnosis.",
@@ -1407,12 +1410,15 @@
           "tag": "RPlan: A"
         },
         {
+          "tag": "Single entity"
+        },
+        {
           "tag": "t-SNE visualization"
         }
       ],
       "relations": {},
       "dateAdded": "2024-04-17T15:24:49Z",
-      "dateModified": "2025-06-08T12:20:50Z",
+      "dateModified": "2025-06-09T07:57:22Z",
       "uri": "http://zotero.org/users/13675710/items/U7ZYCVKB",
       "itemID": 294,
       "attachments": [
@@ -1429,7 +1435,7 @@
         },
         {
           "key": "HTS49HJD",
-          "version": 9046,
+          "version": 9351,
           "itemType": "attachment",
           "title": "Notion",
           "url": "notion://www.notion.so/Deng-et-al-2023-973e28527ec9415eae88863b1667717e",
@@ -1438,11 +1444,11 @@
           "linkMode": "linked_url",
           "contentType": "",
           "charset": "",
-          "note": "<h2 style=\"background-color: #ff666680;\">Do not modify or delete!</h2>\n<p>This link attachment serves as a reference for\n<a href=\"https://github.com/dvanoni/notero\">Notero</a>\nso that it can properly update the Notion page for this item.</p>\n<p>Last synced: 8/6/2025, 14:20:53</p>\n<pre id=\"notero-synced-notes\">{\"containerBlockID\":\"2053c3c2-f8f2-817f-8ef5-d062d83b7234\",\"notes\":{\"59XBLK75\":{\"blockID\":\"2053c3c2-f8f2-810b-95c0-c8f23e9bf6b4\",\"syncedAt\":\"2025-06-01T16:35:18.304Z\"}}}</pre>",
+          "note": "<h2 style=\"background-color: #ff666680;\">Do not modify or delete!</h2>\n<p>This link attachment serves as a reference for\n<a href=\"https://github.com/dvanoni/notero\">Notero</a>\nso that it can properly update the Notion page for this item.</p>\n<p>Last synced: 9/6/2025, 9:57:30</p>\n<pre id=\"notero-synced-notes\">{\"containerBlockID\":\"2053c3c2-f8f2-817f-8ef5-d062d83b7234\",\"notes\":{\"59XBLK75\":{\"blockID\":\"2053c3c2-f8f2-810b-95c0-c8f23e9bf6b4\",\"syncedAt\":\"2025-06-01T16:35:18.304Z\"}}}</pre>",
           "tags": [],
           "relations": {},
           "dateAdded": "2024-04-21T17:21:17Z",
-          "dateModified": "2025-06-08T12:20:53Z",
+          "dateModified": "2025-06-09T07:57:30Z",
           "uri": "http://zotero.org/users/13675710/items/HTS49HJD"
         }
       ],
@@ -1467,7 +1473,7 @@
     },
     {
       "key": "3NSV8QJB",
-      "version": 9071,
+      "version": 9352,
       "itemType": "journalArticle",
       "title": "Time-series classification in smart manufacturing systems: An experimental evaluation of state-of-the-art machine learning algorithms",
       "abstractNote": "Manufacturing is transformed towards smart manufacturing, entering a new data-driven era fueled by digital technologies. The resulting Smart Manufacturing Systems (SMS) gather extensive amounts of diverse data, thanks to the growing number of sensors and rapid advances in sensing technologies. Among the various data types available in SMS settings, time-series data plays a pivotal role. Hence, Time-Series Classification (TSC) emerges as a crucial task in this domain. Over the past decade, researchers have introduced numerous methods for TSC, necessitating not only algorithmic development and analysis but also validation and empirical comparison. This dual approach holds substantial value for practitioners by streamlining choices and revealing insights into models’ strengths and weaknesses. The objective of this study is to fill this gap by providing a rigorous experimental evaluation of the state-of-the-art Machine Learning (ML) and Deep Learning (DL) algorithms for TSC tasks in manufacturing and industrial settings. We first explored and compiled a comprehensive list of more than 92 state-of-the-art algorithms from both TSC and manufacturing literature. Following this, we methodologically selected the 36 most representative algorithms from this list. To evaluate their performance across various manufacturing classification tasks, we curated a set of 22 manufacturing datasets, representative of different characteristics that cover diverse manufacturing problems. Subsequently, we implemented and evaluated the algorithms on the manufacturing benchmark datasets, and analyzed the results for each dataset. Based on the results, ResNet, DrCIF, InceptionTime, and ARSENAL emerged as the top-performing algorithms, boasting an average accuracy of over 96.6 % across all 22 manufacturing TSC datasets. These findings underscore the robustness, efficiency, scalability, and effectiveness of convolutional kernels in capturing temporal features in time-series data collected from manufacturing systems for TSC tasks, as three out of the top four performing algorithms leverage these kernels for feature extraction. Additionally, LSTM, BiLSTM, and TS-LSTM algorithms deserve recognition for their effectiveness in capturing features within manufacturing time-series data using RNN-based structures.",
@@ -1508,6 +1514,9 @@
       "tags": [
         {
           "tag": "1D input"
+        },
+        {
+          "tag": "bearings"
         },
         {
           "tag": "Benchmark data"
@@ -1563,7 +1572,7 @@
       ],
       "relations": {},
       "dateAdded": "2024-11-15T14:57:20Z",
-      "dateModified": "2025-06-08T12:24:10Z",
+      "dateModified": "2025-06-09T07:58:02Z",
       "uri": "http://zotero.org/users/13675710/items/3NSV8QJB",
       "itemID": 605,
       "attachments": [
@@ -1580,7 +1589,7 @@
         },
         {
           "key": "CT8M62LD",
-          "version": 9072,
+          "version": 9353,
           "itemType": "attachment",
           "title": "Notion",
           "url": "notion://www.notion.so/Farahani-et-al-2025-13f3c3c2f8f2810facf9d45163d41cf7",
@@ -1589,11 +1598,11 @@
           "linkMode": "linked_url",
           "contentType": "",
           "charset": "",
-          "note": "<h2 style=\"background-color: #ff666680;\">Do not modify or delete!</h2>\n<p>This link attachment serves as a reference for\n<a href=\"https://github.com/dvanoni/notero\">Notero</a>\nso that it can properly update the Notion page for this item.</p>\n<p>Last synced: 8/6/2025, 14:24:14</p>\n<pre id=\"notero-synced-notes\">{\"containerBlockID\":\"20c3c3c2-f8f2-8130-86d8-cf734541bffc\",\"notes\":{\"7QZPP5C9\":{\"blockID\":\"20c3c3c2-f8f2-8129-ba75-f1dfd7def76c\",\"syncedAt\":\"2025-06-08T12:21:13.199Z\"}}}</pre>",
+          "note": "<h2 style=\"background-color: #ff666680;\">Do not modify or delete!</h2>\n<p>This link attachment serves as a reference for\n<a href=\"https://github.com/dvanoni/notero\">Notero</a>\nso that it can properly update the Notion page for this item.</p>\n<p>Last synced: 9/6/2025, 9:58:05</p>\n<pre id=\"notero-synced-notes\">{\"containerBlockID\":\"20c3c3c2-f8f2-8130-86d8-cf734541bffc\",\"notes\":{\"7QZPP5C9\":{\"blockID\":\"20c3c3c2-f8f2-8129-ba75-f1dfd7def76c\",\"syncedAt\":\"2025-06-08T12:21:13.199Z\"}}}</pre>",
           "tags": [],
           "relations": {},
           "dateAdded": "2024-11-15T14:57:25Z",
-          "dateModified": "2025-06-08T12:24:14Z",
+          "dateModified": "2025-06-09T07:58:06Z",
           "uri": "http://zotero.org/users/13675710/items/CT8M62LD"
         }
       ],
@@ -2941,7 +2950,7 @@
     },
     {
       "key": "WARVHZRP",
-      "version": 9139,
+      "version": 9358,
       "itemType": "preprint",
       "title": "Fault Diagnosis across Heterogeneous Domains via Self-Adaptive Temporal-Spatial Attention and Sample Generation",
       "abstractNote": "Deep learning methods have shown promising performance in fault diagnosis for multimode process. Most existing studies assume that the collected health state categories from different operating modes are identical. However, in real industrial scenarios, these categories typically exhibit only partial overlap. The incompleteness of the available data and the large distributional differences between the operating modes pose a significant challenge to existing fault diagnosis methods. To address this problem, a novel fault diagnosis model named self-adaptive temporal-spatial attention network (TSA-SAN) is proposed. First, inter-mode mappings are constructed using healthy category data to generate multimode samples. To enrich the diversity of the fault data, interpolation is performed between healthy and fault samples. Subsequently, the fault diagnosis model is trained using real and generated data. The self-adaptive instance normalization is established to suppress irrelevant information while retaining essential statistical features for diagnosis. In addition, a temporal-spatial attention mechanism is constructed to focus on the key features, thus enhancing the generalization ability of the model. The extensive experiments demonstrate that the proposed model significantly outperforms the state-of-the-art methods. The code will be available on Github at https://github.com/GuangqiangLi/TSA-SAN.",
@@ -2980,6 +2989,9 @@
         },
         {
           "tag": "Classified"
+        },
+        {
+          "tag": "CNN + RNN + Attention"
         },
         {
           "tag": "Computer Science - Artificial Intelligence",
@@ -3022,7 +3034,7 @@
       ],
       "relations": {},
       "dateAdded": "2025-05-30T15:45:46Z",
-      "dateModified": "2025-06-08T12:44:22Z",
+      "dateModified": "2025-06-09T07:59:16Z",
       "uri": "http://zotero.org/users/13675710/items/WARVHZRP",
       "itemID": 1621,
       "attachments": [
@@ -3934,7 +3946,7 @@
     },
     {
       "key": "U6XXEMGW",
-      "version": 9192,
+      "version": 9360,
       "itemType": "journalArticle",
       "title": "A novel convolutional neural network based fault recognition method via image fusion of multi-vibration-signals",
       "date": "02/2019",
@@ -4002,6 +4014,9 @@
           "tag": "notion"
         },
         {
+          "tag": "Pump system"
+        },
+        {
           "tag": "Re-read"
         },
         {
@@ -4019,13 +4034,13 @@
       ],
       "relations": {},
       "dateAdded": "2024-03-06T13:05:26Z",
-      "dateModified": "2025-06-08T20:49:49Z",
+      "dateModified": "2025-06-09T08:00:43Z",
       "uri": "http://zotero.org/users/13675710/items/U6XXEMGW",
       "itemID": 28,
       "attachments": [
         {
           "key": "K29ZEI4R",
-          "version": 9193,
+          "version": 9360,
           "itemType": "attachment",
           "title": "Notion",
           "url": "notion://www.notion.so/Wang-et-al-2019-babdadb12394423d8dfe5f12e8cd42c7",
@@ -4034,11 +4049,11 @@
           "linkMode": "linked_url",
           "contentType": "",
           "charset": "",
-          "note": "<h2 style=\"background-color: #ff666680;\">Do not modify or delete!</h2>\n<p>This link attachment serves as a reference for\n<a href=\"https://github.com/dvanoni/notero\">Notero</a>\nso that it can properly update the Notion page for this item.</p>\n<p>Last synced: 8/6/2025, 22:49:52</p>\n<pre id=\"notero-synced-notes\">{\"containerBlockID\":\"2053c3c2-f8f2-8106-be92-dde02d72264c\",\"notes\":{\"ZVVJ9WFK\":{\"blockID\":\"2053c3c2-f8f2-8175-9faf-d98213183ce9\",\"syncedAt\":\"2025-06-01T09:27:34.620Z\"}}}</pre>",
+          "note": "<h2 style=\"background-color: #ff666680;\">Do not modify or delete!</h2>\n<p>This link attachment serves as a reference for\n<a href=\"https://github.com/dvanoni/notero\">Notero</a>\nso that it can properly update the Notion page for this item.</p>\n<p>Last synced: 9/6/2025, 10:00:46</p>\n<pre id=\"notero-synced-notes\">{\"containerBlockID\":\"2053c3c2-f8f2-8106-be92-dde02d72264c\",\"notes\":{\"ZVVJ9WFK\":{\"blockID\":\"2053c3c2-f8f2-8175-9faf-d98213183ce9\",\"syncedAt\":\"2025-06-01T09:27:34.620Z\"}}}</pre>",
           "tags": [],
           "relations": {},
           "dateAdded": "2024-03-16T13:40:02Z",
-          "dateModified": "2025-06-08T20:49:52Z",
+          "dateModified": "2025-06-09T08:00:46Z",
           "uri": "http://zotero.org/users/13675710/items/K29ZEI4R"
         },
         {
@@ -4349,7 +4364,7 @@
     },
     {
       "key": "34MLWEJ2",
-      "version": 8951,
+      "version": 9362,
       "itemType": "journalArticle",
       "title": "Chiller fault detection and diagnosis with anomaly detective generative adversarial network",
       "abstractNote": "Data augmentation is one of the necessary steps in the process of automated data-driven fault detection and diagnosis (FDD) for chillers, while real-world operational training samples are usually imbalanced. Faulty data samples are usually more difficult for collection than normal operation data. Existing works show that the generative adversarial networks (GAN) are useful generating synthetic faulty data samples to enrich the training dataset. However, it remains a problem for the automated FDD applications to select high-quality synthetic faulty samples generated by GAN. The FDD accuracy becomes unstable when the quality of synthetic fault data samples cannot be controlled entirely. In this study, we proposed to use the classic definition of anomaly detection to select high-quality synthetic fault data samples with the generative adversarial networks. Two anomaly detection methods were investigated, including the traditional variational auto-encoder (VAE) and the GANomaly. Through a series of experiments, it is justified that, with a small amount of real fault data, the proposed GANbased chiller FDD framework with GANomaly achieves the highest FDD accuracy than all compared methods.",
@@ -4406,6 +4421,9 @@
           "tag": "Interpretability: Not addressed"
         },
         {
+          "tag": "MLP"
+        },
+        {
           "tag": "notion"
         },
         {
@@ -4426,13 +4444,13 @@
       ],
       "relations": {},
       "dateAdded": "2024-03-06T13:05:01Z",
-      "dateModified": "2025-06-08T11:58:18Z",
+      "dateModified": "2025-06-09T08:02:41Z",
       "uri": "http://zotero.org/users/13675710/items/34MLWEJ2",
       "itemID": 34,
       "attachments": [
         {
           "key": "B6C4A4RX",
-          "version": 8952,
+          "version": 9363,
           "itemType": "attachment",
           "title": "Notion",
           "url": "notion://www.notion.so/Yan-2021-6c0d0412796341b88dc59093c9e0a953",
@@ -4441,11 +4459,11 @@
           "linkMode": "linked_url",
           "contentType": "",
           "charset": "",
-          "note": "<h2 style=\"background-color: #ff666680;\">Do not modify or delete!</h2>\n<p>This link attachment serves as a reference for\n<a href=\"https://github.com/dvanoni/notero\">Notero</a>\nso that it can properly update the Notion page for this item.</p>\n<p>Last synced: 8/6/2025, 13:58:23</p>\n<pre id=\"notero-synced-notes\">{\"containerBlockID\":\"20c3c3c2-f8f2-81b4-a0cf-c97322de1e40\",\"notes\":{\"K4PI4CKB\":{\"blockID\":\"20c3c3c2-f8f2-819b-93f0-feb1c3f0ec2e\",\"syncedAt\":\"2025-06-08T11:46:06.097Z\"}}}</pre>",
+          "note": "<h2 style=\"background-color: #ff666680;\">Do not modify or delete!</h2>\n<p>This link attachment serves as a reference for\n<a href=\"https://github.com/dvanoni/notero\">Notero</a>\nso that it can properly update the Notion page for this item.</p>\n<p>Last synced: 9/6/2025, 10:02:47</p>\n<pre id=\"notero-synced-notes\">{\"containerBlockID\":\"20c3c3c2-f8f2-81b4-a0cf-c97322de1e40\",\"notes\":{\"K4PI4CKB\":{\"blockID\":\"20c3c3c2-f8f2-819b-93f0-feb1c3f0ec2e\",\"syncedAt\":\"2025-06-08T11:46:06.097Z\"}}}</pre>",
           "tags": [],
           "relations": {},
           "dateAdded": "2024-03-16T11:37:57Z",
-          "dateModified": "2025-06-08T11:58:23Z",
+          "dateModified": "2025-06-09T08:02:47Z",
           "uri": "http://zotero.org/users/13675710/items/B6C4A4RX"
         },
         {
@@ -5349,10 +5367,11 @@
     },
     {
       "key": "Q7YAMMFH",
-      "version": 9286,
+      "version": 9370,
       "itemType": "journalArticle",
       "title": "TSViT: A Time Series Vision Transformer for Fault Diagnosis",
       "abstractNote": "Traditional fault diagnosis methods using Convolutional Neural Networks (CNNs) face limitations in capturing temporal features (i.e., the variation of vibration signals over time). To address this issue, this paper introduces a novel model, the Time Series Vision Transformer (TSViT), specifically designed for fault diagnosis. On one hand, TSViT model integrates a convolutional layer to segment vibration signals and capture local features. On the other hand, it employs a transformer encoder to learn long-term temporal information. The experimental results with other methods on two distinct datasets validate the effectiveness and generalizability of TSViT with a comparative analysis of its hyperparameters' impact on model performance, computational complexity, and overall parameter quantity. TSViT reaches average accuracies of 100% and 99.99% on two test sets, correspondingly.",
+      "date": "2023",
       "language": "en",
       "libraryCatalog": "Zotero",
       "creators": [
@@ -5467,26 +5486,26 @@
       ],
       "relations": {},
       "dateAdded": "2024-06-28T16:45:41Z",
-      "dateModified": "2025-06-08T21:23:39Z",
+      "dateModified": "2025-06-09T08:22:16Z",
       "uri": "http://zotero.org/users/13675710/items/Q7YAMMFH",
       "itemID": 394,
       "attachments": [
         {
           "key": "ADSISEWJ",
-          "version": 9287,
+          "version": 9371,
           "itemType": "attachment",
           "title": "Notion",
-          "url": "notion://www.notion.so/Zhang-et-al-31331295cb9e4531a1f750afd1957e2e",
+          "url": "notion://www.notion.so/Zhang-et-al-2023-31331295cb9e4531a1f750afd1957e2e",
           "accessDate": "2024-06-28T16:45:49Z",
           "parentItem": "Q7YAMMFH",
           "linkMode": "linked_url",
           "contentType": "",
           "charset": "",
-          "note": "<h2 style=\"background-color: #ff666680;\">Do not modify or delete!</h2>\n<p>This link attachment serves as a reference for\n<a href=\"https://github.com/dvanoni/notero\">Notero</a>\nso that it can properly update the Notion page for this item.</p>\n<p>Last synced: 8/6/2025, 23:23:42</p>\n<pre id=\"notero-synced-notes\">{\"containerBlockID\":\"2053c3c2-f8f2-81d7-82af-ca1b36d69c20\",\"notes\":{\"MK9P8LAU\":{\"blockID\":\"2053c3c2-f8f2-8133-a54b-fa86df91ef5c\",\"syncedAt\":\"2025-06-01T09:10:09.089Z\"}}}</pre>",
+          "note": "<h2 style=\"background-color: #ff666680;\">Do not modify or delete!</h2>\n<p>This link attachment serves as a reference for\n<a href=\"https://github.com/dvanoni/notero\">Notero</a>\nso that it can properly update the Notion page for this item.</p>\n<p>Last synced: 9/6/2025, 10:22:23</p>\n<pre id=\"notero-synced-notes\">{\"containerBlockID\":\"2053c3c2-f8f2-81d7-82af-ca1b36d69c20\",\"notes\":{\"MK9P8LAU\":{\"blockID\":\"2053c3c2-f8f2-8133-a54b-fa86df91ef5c\",\"syncedAt\":\"2025-06-01T09:10:09.089Z\"}}}</pre>",
           "tags": [],
           "relations": {},
           "dateAdded": "2024-06-28T16:45:49Z",
-          "dateModified": "2025-06-08T21:23:42Z",
+          "dateModified": "2025-06-09T08:22:23Z",
           "uri": "http://zotero.org/users/13675710/items/ADSISEWJ"
         },
         {
@@ -5515,7 +5534,7 @@
           "uri": "http://zotero.org/users/13675710/items/MK9P8LAU"
         }
       ],
-      "citationKey": "zhangTSViTTimeSeries",
+      "citationKey": "zhangTSViTTimeSeries2023",
       "itemKey": "Q7YAMMFH",
       "libraryID": 1,
       "select": "zotero://select/library/items/Q7YAMMFH"
@@ -5816,7 +5835,7 @@
     },
     {
       "key": "8U5DFZJV",
-      "version": 8958,
+      "version": 9364,
       "itemType": "journalArticle",
       "title": "FaultFormer: Pretraining Transformers for Adaptable Bearing Fault Classification",
       "abstractNote": "The growth of global consumption has motivated important applications of deep learning to smart manufacturing and machine health monitoring. In particular, analyzing vibration data offers great potential to extract meaningful insights into predictive maintenance by the detection of bearing faults. Deep learning can be a powerful method to predict these mechanical failures; however, they lack generalizability to new tasks or datasets and require expensive, labeled mechanical data. We address this by presenting a novel self-supervised pretraining and fine-tuning framework based on transformer models. In particular, we investigate different tokenization and data augmentation strategies to reach state-of-the-art accuracies using transformer models. Furthermore, we demonstrate self-supervised masked pretraining for vibration signals and its application to low-data regimes, task adaptation, and dataset adaptation. Pretraining is able to improve performance on scarce, unseen training samples, as well as when fine-tuning on fault classes outside of the pretraining distribution. Furthermore, pretrained transformers are shown to be able to generalize to a different dataset in a few-shot manner. This introduces a new paradigm where models can be pretrained on unlabeled data from different bearings, faults, and machinery and quickly deployed to new, data-scarce applications to suit specific manufacturing needs.",
@@ -5909,6 +5928,9 @@
           "tag": "RPlan: A"
         },
         {
+          "tag": "Single entity"
+        },
+        {
           "tag": "SOTA"
         },
         {
@@ -5923,13 +5945,13 @@
       ],
       "relations": {},
       "dateAdded": "2024-12-16T12:03:12Z",
-      "dateModified": "2025-06-08T11:59:07Z",
+      "dateModified": "2025-06-09T08:04:14Z",
       "uri": "http://zotero.org/users/13675710/items/8U5DFZJV",
       "itemID": 615,
       "attachments": [
         {
           "key": "PGJQHDSH",
-          "version": 8959,
+          "version": 9365,
           "itemType": "attachment",
           "title": "Notion",
           "url": "notion://www.notion.so/Zhou-y-Farimani-2024-15e3c3c2f8f281a28e2cffb3569344c7",
@@ -5938,11 +5960,11 @@
           "linkMode": "linked_url",
           "contentType": "",
           "charset": "",
-          "note": "<h2 style=\"background-color: #ff666680;\">Do not modify or delete!</h2>\n<p>This link attachment serves as a reference for\n<a href=\"https://github.com/dvanoni/notero\">Notero</a>\nso that it can properly update the Notion page for this item.</p>\n<p>Last synced: 8/6/2025, 13:59:12</p>\n<pre id=\"notero-synced-notes\">{\"containerBlockID\":\"20c3c3c2-f8f2-8166-816b-f4b04c242696\",\"notes\":{\"9SXD2TXL\":{\"blockID\":\"20c3c3c2-f8f2-8175-912e-ca765013c33d\",\"syncedAt\":\"2025-06-08T11:24:35.742Z\"},\"JZ84QL9R\":{\"blockID\":\"20c3c3c2-f8f2-81f1-bb38-c704b8284a32\",\"syncedAt\":\"2025-06-08T11:24:38.394Z\"}}}</pre>",
+          "note": "<h2 style=\"background-color: #ff666680;\">Do not modify or delete!</h2>\n<p>This link attachment serves as a reference for\n<a href=\"https://github.com/dvanoni/notero\">Notero</a>\nso that it can properly update the Notion page for this item.</p>\n<p>Last synced: 9/6/2025, 10:04:19</p>\n<pre id=\"notero-synced-notes\">{\"containerBlockID\":\"20c3c3c2-f8f2-8166-816b-f4b04c242696\",\"notes\":{\"9SXD2TXL\":{\"blockID\":\"20c3c3c2-f8f2-8175-912e-ca765013c33d\",\"syncedAt\":\"2025-06-08T11:24:35.742Z\"},\"JZ84QL9R\":{\"blockID\":\"20c3c3c2-f8f2-81f1-bb38-c704b8284a32\",\"syncedAt\":\"2025-06-08T11:24:38.394Z\"}}}</pre>",
           "tags": [],
           "relations": {},
           "dateAdded": "2024-12-16T12:03:17Z",
-          "dateModified": "2025-06-08T11:59:12Z",
+          "dateModified": "2025-06-09T08:04:19Z",
           "uri": "http://zotero.org/users/13675710/items/PGJQHDSH"
         },
         {
@@ -5990,7 +6012,7 @@
     },
     {
       "key": "HD9N9BKJ",
-      "version": 9314,
+      "version": 9367,
       "itemType": "journalArticle",
       "title": "Design of model fusion learning method based on deep bidirectional GRU neural network in fault diagnosis of industrial processes",
       "abstractNote": "This paper proposes an end-to-end model fusion feature learning method based on deep bidirectional gated recurrent unit (MCNN-DBiGRU) for fault diagnosis in industrial processes. First, a feature-aligned multi-scale feature extraction model (MCNN) is designed by analyzing the working principles of convolutional and pooling layers of convolutional neural networks. Secondly, a deep bidirectional mechanism is proposed to better extract the time series features in the process data. This mechanism makes the recurrent neural network not only present the forward processing input features from the past to the future, but also the reverse processing from the future to the past. By integrating these features, the diagnostic performance of the network model is improved. To verify that the proposed model has effective diagnostic accuracy for fault diagnosis, we conduct simulation experiments on the Tennessee-Eastman (TE) process and a chemical coking furnace, and compare with several conventional network models. In the end, not only the effectiveness of the model is proved, but it is also confirmed that the model is superior to other conventional neural networks in both diagnostic accuracy and feature robustness.",
@@ -6059,6 +6081,9 @@
           "tag": "Industrial data"
         },
         {
+          "tag": "Interpretability: Latent space"
+        },
+        {
           "tag": "Latent space"
         },
         {
@@ -6085,13 +6110,13 @@
       ],
       "relations": {},
       "dateAdded": "2024-11-15T14:57:11Z",
-      "dateModified": "2025-06-08T21:28:37Z",
+      "dateModified": "2025-06-09T08:04:48Z",
       "uri": "http://zotero.org/users/13675710/items/HD9N9BKJ",
       "itemID": 645,
       "attachments": [
         {
           "key": "LPQ64MHZ",
-          "version": 9314,
+          "version": 9368,
           "itemType": "attachment",
           "title": "Notion",
           "url": "notion://www.notion.so/Zhu-et-al-2025-13f3c3c2f8f281b281e3ec1a2c425f3d",
@@ -6100,11 +6125,11 @@
           "linkMode": "linked_url",
           "contentType": "",
           "charset": "",
-          "note": "<h2 style=\"background-color: #ff666680;\">Do not modify or delete!</h2>\n<p>This link attachment serves as a reference for\n<a href=\"https://github.com/dvanoni/notero\">Notero</a>\nso that it can properly update the Notion page for this item.</p>\n<p>Last synced: 8/6/2025, 23:28:40</p>\n<pre id=\"notero-synced-notes\">{\"containerBlockID\":\"2053c3c2-f8f2-810a-b8d0-d3c72c6f9d15\",\"notes\":{\"7HAW63Q6\":{\"blockID\":\"2053c3c2-f8f2-8197-82d1-e38c7ae07a2a\",\"syncedAt\":\"2025-06-01T08:29:06.283Z\"}}}</pre>",
+          "note": "<h2 style=\"background-color: #ff666680;\">Do not modify or delete!</h2>\n<p>This link attachment serves as a reference for\n<a href=\"https://github.com/dvanoni/notero\">Notero</a>\nso that it can properly update the Notion page for this item.</p>\n<p>Last synced: 9/6/2025, 10:04:54</p>\n<pre id=\"notero-synced-notes\">{\"containerBlockID\":\"2053c3c2-f8f2-810a-b8d0-d3c72c6f9d15\",\"notes\":{\"7HAW63Q6\":{\"blockID\":\"2053c3c2-f8f2-8197-82d1-e38c7ae07a2a\",\"syncedAt\":\"2025-06-01T08:29:06.283Z\"}}}</pre>",
           "tags": [],
           "relations": {},
           "dateAdded": "2024-11-15T14:57:17Z",
-          "dateModified": "2025-06-08T21:28:40Z",
+          "dateModified": "2025-06-09T08:04:54Z",
           "uri": "http://zotero.org/users/13675710/items/LPQ64MHZ"
         },
         {
