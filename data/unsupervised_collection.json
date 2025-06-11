@@ -106,7 +106,7 @@
   },
   "version": {
     "zotero": "7.0.15",
-    "bbt": "7.0.28"
+    "bbt": "7.0.31"
   },
   "collections": {},
   "items": [
@@ -152,64 +152,64 @@
       ],
       "tags": [
         {
-          "tag": "1D input"
-        },
-        {
-          "tag": "Anomaly Score: Dynamic"
-        },
-        {
-          "tag": "Arch type: Direct model"
-        },
-        {
-          "tag": "Classified"
-        },
-        {
           "tag": "Deep Learning"
-        },
-        {
-          "tag": "Factory"
-        },
-        {
-          "tag": "Fleet data"
-        },
-        {
-          "tag": "Forecasting-based"
-        },
-        {
-          "tag": "Generic / Benchmark data"
-        },
-        {
-          "tag": "Good anomalies type explanation"
-        },
-        {
-          "tag": "Good task explanation (CBM)"
-        },
-        {
-          "tag": "Good XAI theory explanation"
-        },
-        {
-          "tag": "High rated"
-        },
-        {
-          "tag": "LSTM"
-        },
-        {
-          "tag": "Multivariate"
         },
         {
           "tag": "notion"
         },
         {
-          "tag": "Output residuals"
+          "tag": "1D input"
         },
         {
-          "tag": "Re-read"
+          "tag": "Classified"
         },
         {
           "tag": "Read"
         },
         {
+          "tag": "LSTM"
+        },
+        {
+          "tag": "Re-read"
+        },
+        {
+          "tag": "Good anomalies type explanation"
+        },
+        {
+          "tag": "Multivariate"
+        },
+        {
+          "tag": "Good XAI theory explanation"
+        },
+        {
           "tag": "RPlan: A"
+        },
+        {
+          "tag": "High rated"
+        },
+        {
+          "tag": "Output residuals"
+        },
+        {
+          "tag": "Fleet data"
+        },
+        {
+          "tag": "Generic / Benchmark data"
+        },
+        {
+          "tag": "Anomaly Score: Dynamic"
+        },
+        {
+          "tag": "Good task explanation (CBM)"
+        },
+        {
+          "tag": "Factory"
+        },
+        {
+          "tag": "Forecasting-based"
+        },
+        {
+          "tag": "Arch type: Direct model"
         }
       ],
       "relations": {},
@@ -314,19 +314,7 @@
       ],
       "tags": [
         {
-          "tag": "1D input"
-        },
-        {
           "tag": "Anomaly detection"
-        },
-        {
-          "tag": "Anomaly Score: Dynamic"
-        },
-        {
-          "tag": "Autoencoder"
-        },
-        {
-          "tag": "bearings"
         },
         {
           "tag": "Deep Learning"
@@ -335,34 +323,46 @@
           "tag": "Fault classification"
         },
         {
-          "tag": "High rated"
-        },
-        {
-          "tag": "Interpretability: Latent space"
-        },
-        {
           "tag": "Latent space"
         },
         {
-          "tag": "MLP"
-        },
-        {
-          "tag": "Multivariate"
+          "tag": "Autoencoder"
         },
         {
           "tag": "notion"
         },
         {
+          "tag": "1D input"
+        },
+        {
+          "tag": "bearings"
+        },
+        {
           "tag": "Processed data"
         },
         {
-          "tag": "Reconstruction"
+          "tag": "Multivariate"
         },
         {
           "tag": "RPlan: A"
         },
         {
+          "tag": "High rated"
+        },
+        {
           "tag": "Single entity"
+        },
+        {
+          "tag": "Reconstruction"
+        },
+        {
+          "tag": "Anomaly Score: Dynamic"
+        },
+        {
+          "tag": "Interpretability: Latent space"
+        },
+        {
+          "tag": "MLP"
         }
       ],
       "relations": {},
@@ -384,7 +384,7 @@
         },
         {
           "key": "ZIDN7MD5",
-          "version": 8733,
+          "version": 9381,
           "itemType": "attachment",
           "title": "Notion",
           "url": "notion://www.notion.so/Arellano-Espitia-et-al-2021-870ef6fde4744641b8a307e2a65a25e5",
@@ -393,11 +393,11 @@
           "linkMode": "linked_url",
           "contentType": "",
           "charset": "",
-          "note": "<h2 style=\"background-color: #ff666680;\">Do not modify or delete!</h2>\n<p>This link attachment serves as a reference for\n<a href=\"https://github.com/dvanoni/notero\">Notero</a>\nso that it can properly update the Notion page for this item.</p>\n<p>Last synced: 6/6/2025, 18:51:16</p>\n<pre id=\"notero-synced-notes\">{\"containerBlockID\":\"2053c3c2-f8f2-81ae-81a5-e32884e36fcd\",\"notes\":{\"IWQAISLK\":{\"blockID\":\"2053c3c2-f8f2-8129-b532-d65238f3b180\",\"syncedAt\":\"2025-06-01T10:10:13.391Z\"}}}</pre>",
+          "note": "<h2 style=\"background-color: #ff666680;\">Do not modify or delete!</h2>\n<p>This link attachment serves as a reference for\n<a href=\"https://github.com/dvanoni/notero\">Notero</a>\nso that it can properly update the Notion page for this item.</p>\n<p>Last synced: 6/9/2025, 5:17:58 PM</p>\n<pre id=\"notero-synced-notes\">{\"containerBlockID\":\"2053c3c2-f8f2-81ae-81a5-e32884e36fcd\",\"notes\":{\"IWQAISLK\":{\"blockID\":\"2053c3c2-f8f2-8129-b532-d65238f3b180\",\"syncedAt\":\"2025-06-01T10:10:13.391Z\"}}}</pre>",
           "tags": [],
           "relations": {},
           "dateAdded": "2024-03-16T11:38:00Z",
-          "dateModified": "2025-06-06T16:51:16Z",
+          "dateModified": "2025-06-09T15:17:58Z",
           "uri": "http://zotero.org/users/13675710/items/ZIDN7MD5"
         }
       ],
@@ -567,7 +567,7 @@
     },
     {
       "key": "VJJNGYSD",
-      "version": 8747,
+      "version": 9042,
       "itemType": "journalArticle",
       "title": "Bearing Fault Diagnosis for Time-Varying System Using Vibration–Speed Fusion Network Based on Self-Attention and Sparse Feature Extraction",
       "abstractNote": "Nowadays, most deep-learning-based bearing fault diagnosis methods are studied under the condition of steady speed, while the performance of these models cannot be fully played under time-varying conditions. Therefore, in order to facilitate the practical application of a deep learning model in bearing fault diagnosis, a vibration–speed fusion network is proposed, which utilizes a transformer with a self-attention module to extract vibration features and utilizes a sparse autoencoder (SAE) network to extract sparse features from speed pulse signal. The vibration–speed fusion network enables the efﬁcient fusion of different signals in a high-dimensional vector space with a high degree of model interpretability, without additional signal processing steps. After tuning the hyperparameters of the network, the key segments of the bearing’s time-domain vibration signals can be optimally extracted, the network performance is much better than traditional deep learning methods, and the classiﬁcation accuracy can reach 95.18% and 99.85% on the two public bearing datasets from the Xi’an Jiaotong University and the University of Ottawa.",
@@ -607,22 +607,7 @@
       ],
       "tags": [
         {
-          "tag": "1D input"
-        },
-        {
           "tag": "Anomaly detection"
-        },
-        {
-          "tag": "Anomaly Score: Static"
-        },
-        {
-          "tag": "Autoencoder"
-        },
-        {
-          "tag": "bearings"
-        },
-        {
-          "tag": "Data handling techniques"
         },
         {
           "tag": "Deep Learning"
@@ -631,22 +616,31 @@
           "tag": "Fault classification"
         },
         {
-          "tag": "Historical Data"
-        },
-        {
-          "tag": "Interpretability: Attention + residuals"
-        },
-        {
           "tag": "Latent space"
         },
         {
-          "tag": "Multivariate"
+          "tag": "Historical Data"
+        },
+        {
+          "tag": "Transformer"
+        },
+        {
+          "tag": "Autoencoder"
         },
         {
           "tag": "notion"
         },
         {
-          "tag": "Representation"
+          "tag": "Data handling techniques"
+        },
+        {
+          "tag": "1D input"
+        },
+        {
+          "tag": "bearings"
+        },
+        {
+          "tag": "Multivariate"
         },
         {
           "tag": "RPlan: A"
@@ -655,12 +649,21 @@
           "tag": "Single entity"
         },
         {
-          "tag": "Transformer"
+          "tag": "Anomaly Score: Static"
+        },
+        {
+          "tag": "Representation"
+        },
+        {
+          "tag": "Interpretability: Attention + residuals"
+        },
+        {
+          "tag": "MC classification"
         }
       ],
       "relations": {},
       "dateAdded": "2024-03-20T16:16:03Z",
-      "dateModified": "2025-06-06T17:02:57Z",
+      "dateModified": "2025-06-08T12:18:43Z",
       "uri": "http://zotero.org/users/13675710/items/VJJNGYSD",
       "itemID": 159,
       "attachments": [
@@ -677,7 +680,7 @@
         },
         {
           "key": "QPLC3I86",
-          "version": 8747,
+          "version": 9378,
           "itemType": "attachment",
           "title": "Notion",
           "url": "notion://www.notion.so/Chi-et-al-2022-1108d9f4dd2f4101b225998de25820d9",
@@ -686,11 +689,11 @@
           "linkMode": "linked_url",
           "contentType": "",
           "charset": "",
-          "note": "<h2 style=\"background-color: #ff666680;\">Do not modify or delete!</h2>\n<p>This link attachment serves as a reference for\n<a href=\"https://github.com/dvanoni/notero\">Notero</a>\nso that it can properly update the Notion page for this item.</p>\n<p>Last synced: 6/6/2025, 19:03:00</p>\n<pre id=\"notero-synced-notes\">{\"containerBlockID\":\"20a3c3c2-f8f2-816c-b8e2-fd178cbcddcf\",\"notes\":{\"Z3RQUPVL\":{\"blockID\":\"20a3c3c2-f8f2-8169-aa66-f64170491529\",\"syncedAt\":\"2025-06-06T16:22:17.693Z\"}}}</pre>",
+          "note": "<h2 style=\"background-color: #ff666680;\">Do not modify or delete!</h2>\n<p>This link attachment serves as a reference for\n<a href=\"https://github.com/dvanoni/notero\">Notero</a>\nso that it can properly update the Notion page for this item.</p>\n<p>Last synced: 6/9/2025, 5:17:22 PM</p>\n<pre id=\"notero-synced-notes\">{\"containerBlockID\":\"20a3c3c2-f8f2-816c-b8e2-fd178cbcddcf\",\"notes\":{\"Z3RQUPVL\":{\"blockID\":\"20a3c3c2-f8f2-8169-aa66-f64170491529\",\"syncedAt\":\"2025-06-06T16:22:17.693Z\"}}}</pre>",
           "tags": [],
           "relations": {},
           "dateAdded": "2024-03-26T18:03:36Z",
-          "dateModified": "2025-06-06T17:03:00Z",
+          "dateModified": "2025-06-09T15:17:22Z",
           "uri": "http://zotero.org/users/13675710/items/QPLC3I86"
         }
       ],
@@ -764,49 +767,49 @@
       ],
       "tags": [
         {
-          "tag": "1D input"
-        },
-        {
           "tag": "Anomaly detection"
-        },
-        {
-          "tag": "Anomaly Score: Dynamic"
         },
         {
           "tag": "Deep Learning"
         },
         {
-          "tag": "Diesel engine"
-        },
-        {
-          "tag": "Interpretability: Not addressed"
-        },
-        {
-          "tag": "MLP"
-        },
-        {
-          "tag": "notion"
-        },
-        {
-          "tag": "Reconstruction"
-        },
-        {
-          "tag": "RPlan: A"
-        },
-        {
           "tag": "SCADA data"
-        },
-        {
-          "tag": "Single entity"
-        },
-        {
-          "tag": "Univariate"
         },
         {
           "tag": "Variable Autoencoder"
         },
         {
+          "tag": "notion"
+        },
+        {
+          "tag": "1D input"
+        },
+        {
+          "tag": "RPlan: A"
+        },
+        {
+          "tag": "Diesel engine"
+        },
+        {
+          "tag": "Single entity"
+        },
+        {
+          "tag": "Reconstruction"
+        },
+        {
+          "tag": "Anomaly Score: Dynamic"
+        },
+        {
+          "tag": "Interpretability: Not addressed"
+        },
+        {
+          "tag": "Univariate"
+        },
+        {
           "tag": "Varying conditions"
+        },
+        {
+          "tag": "MLP"
         }
       ],
       "relations": {},
@@ -828,7 +831,7 @@
         },
         {
           "key": "JLHXWUX8",
-          "version": 8728,
+          "version": 9381,
           "itemType": "attachment",
           "title": "Notion",
           "url": "notion://www.notion.so/Ellefsen-et-al-2020-89c615db71a64d36b6d15e390a949de4",
@@ -837,11 +840,11 @@
           "linkMode": "linked_url",
           "contentType": "",
           "charset": "",
-          "note": "<h2 style=\"background-color: #ff666680;\">Do not modify or delete!</h2>\n<p>This link attachment serves as a reference for\n<a href=\"https://github.com/dvanoni/notero\">Notero</a>\nso that it can properly update the Notion page for this item.</p>\n<p>Last synced: 6/6/2025, 18:50:40</p>\n<pre id=\"notero-synced-notes\">{\"containerBlockID\":\"2053c3c2-f8f2-8190-8ae3-da51aafe9dab\",\"notes\":{\"5GT9GDSW\":{\"blockID\":\"2053c3c2-f8f2-8164-9eb9-e64b71a0a65d\",\"syncedAt\":\"2025-06-01T11:31:31.001Z\"}}}</pre>",
+          "note": "<h2 style=\"background-color: #ff666680;\">Do not modify or delete!</h2>\n<p>This link attachment serves as a reference for\n<a href=\"https://github.com/dvanoni/notero\">Notero</a>\nso that it can properly update the Notion page for this item.</p>\n<p>Last synced: 6/9/2025, 5:18:00 PM</p>\n<pre id=\"notero-synced-notes\">{\"containerBlockID\":\"2053c3c2-f8f2-8190-8ae3-da51aafe9dab\",\"notes\":{\"5GT9GDSW\":{\"blockID\":\"2053c3c2-f8f2-8164-9eb9-e64b71a0a65d\",\"syncedAt\":\"2025-06-01T11:31:31.001Z\"}}}</pre>",
           "tags": [],
           "relations": {},
           "dateAdded": "2024-03-16T11:38:14Z",
-          "dateModified": "2025-06-06T16:50:40Z",
+          "dateModified": "2025-06-09T15:18:00Z",
           "uri": "http://zotero.org/users/13675710/items/JLHXWUX8"
         }
       ],
@@ -866,7 +869,7 @@
     },
     {
       "key": "HXDSVIYB",
-      "version": 8820,
+      "version": 9448,
       "itemType": "journalArticle",
       "title": "An Evaluation of Anomaly Detection and Diagnosis in Multivariate Time Series",
       "abstractNote": "Several techniques for multivariate time series anomaly detection have been proposed recently, but a systematic comparison on a common set of datasets and metrics is lacking. This article presents a systematic and comprehensive evaluation of unsupervised and semisupervised deep-learning-based methods for anomaly detection and diagnosis on multivariate time series data from cyberphysical systems. Unlike previous works, we vary the model and post-processing of model errors, i.e., the scoring functions independently of each other, through a grid of ten models and four scoring functions, comparing these variants to state-of-the-art methods. In time-series anomaly detection, detecting anomalous events is more important than detecting individual anomalous time points. Through experiments, we ﬁnd that the existing evaluation metrics either do not take events into account or cannot distinguish between a good detector and trivial detectors, such as a random or an all-positive detector. We propose a new metric to overcome these drawbacks, namely, the composite F-score (Fc1), for evaluating time-series anomaly detection. Our study highlights that dynamic scoring functions work much better than static ones for multivariate time series anomaly detection, and the choice of scoring functions often matters more than the choice of the underlying model. We also ﬁnd that a simple, channel-wise model—the univariate fully connected auto-encoder, with the dynamic Gaussian scoring function emerges as a winning candidate for both anomaly detection and diagnosis, beating state-of-the-art algorithms.",
@@ -927,9 +930,6 @@
           "tag": "Fault classification"
         },
         {
-          "tag": "Fleet data"
-        },
-        {
           "tag": "Generic / Benchmark data"
         },
         {
@@ -968,7 +968,7 @@
       ],
       "relations": {},
       "dateAdded": "2025-05-30T15:44:49Z",
-      "dateModified": "2025-06-06T17:21:13Z",
+      "dateModified": "2025-06-11T10:40:03Z",
       "uri": "http://zotero.org/users/13675710/items/HXDSVIYB",
       "itemID": 1631,
       "attachments": [
@@ -1064,43 +1064,43 @@
       ],
       "tags": [
         {
-          "tag": "1D input"
-        },
-        {
           "tag": "Anomaly detection"
-        },
-        {
-          "tag": "Anomaly Score: Static"
-        },
-        {
-          "tag": "Arch type: SL"
-        },
-        {
-          "tag": "Digital Twin"
-        },
-        {
-          "tag": "Fleet data"
-        },
-        {
-          "tag": "Health index"
-        },
-        {
-          "tag": "Interpretability: Not addressed"
-        },
-        {
-          "tag": "MOPA"
-        },
-        {
-          "tag": "Multivariate"
         },
         {
           "tag": "notion"
         },
         {
-          "tag": "Representation"
+          "tag": "1D input"
+        },
+        {
+          "tag": "Health index"
+        },
+        {
+          "tag": "Multivariate"
         },
         {
           "tag": "Wind turbine"
+        },
+        {
+          "tag": "Anomaly Score: Static"
+        },
+        {
+          "tag": "Fleet data"
+        },
+        {
+          "tag": "Digital Twin"
+        },
+        {
+          "tag": "Interpretability: Not addressed"
+        },
+        {
+          "tag": "Representation"
+        },
+        {
+          "tag": "Arch type: SL"
+        },
+        {
+          "tag": "MOPA"
         }
       ],
       "relations": {},
@@ -1199,49 +1199,49 @@
       ],
       "tags": [
         {
-          "tag": "1D input"
+          "tag": "Computer Science - Machine Learning"
         },
         {
           "tag": "Anomaly detection"
         },
         {
-          "tag": "Anomaly Score: Static"
+          "tag": "notion"
         },
         {
-          "tag": "Arch type: SL"
+          "tag": "1D input"
         },
         {
           "tag": "Classified"
         },
         {
-          "tag": "Computer Science - Machine Learning"
-        },
-        {
-          "tag": "Gearbox"
-        },
-        {
-          "tag": "GMM"
-        },
-        {
-          "tag": "Interpretability: Not addressed"
-        },
-        {
-          "tag": "Multivariate"
-        },
-        {
-          "tag": "notion"
-        },
-        {
           "tag": "Read"
         },
         {
-          "tag": "Representation"
+          "tag": "Multivariate"
         },
         {
           "tag": "RPlan: A"
         },
         {
           "tag": "Single entity"
+        },
+        {
+          "tag": "Anomaly Score: Static"
+        },
+        {
+          "tag": "Interpretability: Not addressed"
+        },
+        {
+          "tag": "Representation"
+        },
+        {
+          "tag": "Arch type: SL"
+        },
+        {
+          "tag": "Gearbox"
+        },
+        {
+          "tag": "GMM"
         }
       ],
       "relations": {},
@@ -1263,20 +1263,20 @@
         },
         {
           "key": "P4X3Y8J8",
-          "version": 8741,
+          "version": 9381,
           "itemType": "attachment",
           "title": "Notion",
-          "url": "notion://www.notion.so/Hu-y-Huang-2021-e57e846d1469438dbf338e51f4edeb52",
+          "url": "notion://www.notion.so/Hu-and-Huang-2021-e57e846d1469438dbf338e51f4edeb52",
           "accessDate": "2024-03-16T11:37:50Z",
           "parentItem": "ZL886D29",
           "linkMode": "linked_url",
           "contentType": "",
           "charset": "",
-          "note": "<h2 style=\"background-color: #ff666680;\">Do not modify or delete!</h2>\n<p>This link attachment serves as a reference for\n<a href=\"https://github.com/dvanoni/notero\">Notero</a>\nso that it can properly update the Notion page for this item.</p>\n<p>Last synced: 6/6/2025, 18:52:45</p>\n<pre id=\"notero-synced-notes\">{\"containerBlockID\":\"20a3c3c2-f8f2-814d-a127-f15490f77749\",\"notes\":{\"T6CSEZCL\":{\"blockID\":\"20a3c3c2-f8f2-81df-b57c-eca6a5b4a94f\",\"syncedAt\":\"2025-06-06T16:21:56.690Z\"}}}</pre>",
+          "note": "<h2 style=\"background-color: #ff666680;\">Do not modify or delete!</h2>\n<p>This link attachment serves as a reference for\n<a href=\"https://github.com/dvanoni/notero\">Notero</a>\nso that it can properly update the Notion page for this item.</p>\n<p>Last synced: 6/9/2025, 5:17:54 PM</p>\n<pre id=\"notero-synced-notes\">{\"containerBlockID\":\"20a3c3c2-f8f2-814d-a127-f15490f77749\",\"notes\":{\"T6CSEZCL\":{\"blockID\":\"20a3c3c2-f8f2-81df-b57c-eca6a5b4a94f\",\"syncedAt\":\"2025-06-06T16:21:56.690Z\"}}}</pre>",
           "tags": [],
           "relations": {},
           "dateAdded": "2024-03-16T11:37:50Z",
-          "dateModified": "2025-06-06T16:52:45Z",
+          "dateModified": "2025-06-09T15:17:54Z",
           "uri": "http://zotero.org/users/13675710/items/P4X3Y8J8"
         }
       ],
@@ -1345,22 +1345,7 @@
       ],
       "tags": [
         {
-          "tag": "1D input"
-        },
-        {
-          "tag": "Aero engine"
-        },
-        {
           "tag": "Anomaly detection"
-        },
-        {
-          "tag": "Anomaly Score: Static"
-        },
-        {
-          "tag": "Arch type: Custom Transformer"
-        },
-        {
-          "tag": "bearings"
         },
         {
           "tag": "Deep Learning"
@@ -1369,25 +1354,19 @@
           "tag": "Fault classification"
         },
         {
-          "tag": "Interpretability: Not addressed"
-        },
-        {
           "tag": "Latent space"
         },
         {
-          "tag": "Multivariate"
+          "tag": "Transformer"
         },
         {
           "tag": "notion"
         },
         {
-          "tag": "Representation"
+          "tag": "1D input"
         },
         {
-          "tag": "RPlan: A"
-        },
-        {
-          "tag": "Single entity"
+          "tag": "bearings"
         },
         {
           "tag": "t-SNE visualization"
@@ -1396,7 +1375,28 @@
           "tag": "Transfer Learning"
         },
         {
-          "tag": "Transformer"
+          "tag": "Multivariate"
+        },
+        {
+          "tag": "RPlan: A"
+        },
+        {
+          "tag": "Aero engine"
+        },
+        {
+          "tag": "Single entity"
+        },
+        {
+          "tag": "Anomaly Score: Static"
+        },
+        {
+          "tag": "Interpretability: Not addressed"
+        },
+        {
+          "tag": "Representation"
+        },
+        {
+          "tag": "Arch type: Custom Transformer"
         }
       ],
       "relations": {},
@@ -1418,7 +1418,7 @@
         },
         {
           "key": "H4UKUFTQ",
-          "version": 8722,
+          "version": 9381,
           "itemType": "attachment",
           "title": "Notion",
           "url": "notion://www.notion.so/Kang-et-al-2024-51d22bee4080448d8b6ae795799750a8",
@@ -1427,11 +1427,11 @@
           "linkMode": "linked_url",
           "contentType": "",
           "charset": "",
-          "note": "<h2 style=\"background-color: #ff666680;\">Do not modify or delete!</h2>\n<p>This link attachment serves as a reference for\n<a href=\"https://github.com/dvanoni/notero\">Notero</a>\nso that it can properly update the Notion page for this item.</p>\n<p>Last synced: 6/6/2025, 18:48:56</p>\n<pre id=\"notero-synced-notes\">{\"containerBlockID\":\"2053c3c2-f8f2-81c4-a039-cb8d7b6db714\",\"notes\":{\"FSCQ3FRL\":{\"blockID\":\"2053c3c2-f8f2-816d-84ff-e9a692089ba4\",\"syncedAt\":\"2025-06-01T10:32:48.258Z\"}}}</pre>",
+          "note": "<h2 style=\"background-color: #ff666680;\">Do not modify or delete!</h2>\n<p>This link attachment serves as a reference for\n<a href=\"https://github.com/dvanoni/notero\">Notero</a>\nso that it can properly update the Notion page for this item.</p>\n<p>Last synced: 6/9/2025, 5:18:02 PM</p>\n<pre id=\"notero-synced-notes\">{\"containerBlockID\":\"2053c3c2-f8f2-81c4-a039-cb8d7b6db714\",\"notes\":{\"FSCQ3FRL\":{\"blockID\":\"2053c3c2-f8f2-816d-84ff-e9a692089ba4\",\"syncedAt\":\"2025-06-01T10:32:48.258Z\"}}}</pre>",
           "tags": [],
           "relations": {},
           "dateAdded": "2024-03-16T11:38:05Z",
-          "dateModified": "2025-06-06T16:48:56Z",
+          "dateModified": "2025-06-09T15:18:02Z",
           "uri": "http://zotero.org/users/13675710/items/H4UKUFTQ"
         }
       ],
@@ -1456,7 +1456,7 @@
     },
     {
       "key": "HMAYULJ4",
-      "version": 8754,
+      "version": 8906,
       "itemType": "journalArticle",
       "title": "A Semi-Supervised Autoencoder With an Auxiliary Task (SAAT) for Power Transformer Fault Diagnosis Using Dissolved Gas Analysis",
       "abstractNote": "This paper proposes a semi-supervised autoencoder with an auxiliary task (SAAT) to extract a health feature space for power transformer fault diagnosis using dissolved gas analysis (DGA). The health feature space generated by a semi-supervised autoencoder (SSAE) not only identiﬁes normal and thermal/electrical fault types, but also presents the underlying characteristics of DGA. In the proposed approach, by adding an auxiliary task that detects normal and fault states in the loss function of SSAE, the health feature space additionally enables visualization of health degradation properties. The overall procedure of the new approach includes three key steps: 1) preprocessing DGA data, 2) extracting two health features via SAAT, and 3) visualizing the two health features in two-dimensional space. In this paper, we test the proposed approach using massive unlabeled/labeled Korea Electric Power Corporation (KEPCO) databases and IEC TC 10 databases. To demonstrate the effectiveness of the proposed approach, four comparative studies are conducted with these datasets; the studies examined: 1) the effectiveness of an auxiliary detection task, 2) the effectiveness of the visualization method, 3) conventional fault diagnosis methods, and 4) the state-of-the-art, semi-supervised deep learning algorithms. By examining several evaluation metrics, these comparative studies conﬁrm that the proposed approach outperforms SSAE without the auxiliary task, existing methods, and state-of-the-art deep learning algorithms, in terms of deﬁning health degradation performance. We expect that the proposed SAAT-based health feature space approach will be widely applicable to intuitively monitor the health state of power transformers in the real world.",
@@ -1515,22 +1515,7 @@
       ],
       "tags": [
         {
-          "tag": "1D input"
-        },
-        {
           "tag": "Anomaly detection"
-        },
-        {
-          "tag": "Anomaly Score: Dynamic"
-        },
-        {
-          "tag": "Autoencoder"
-        },
-        {
-          "tag": "Chemical plant"
-        },
-        {
-          "tag": "Classified"
         },
         {
           "tag": "Deep Learning"
@@ -1539,45 +1524,63 @@
           "tag": "Fault classification"
         },
         {
-          "tag": "Health degradation properties"
-        },
-        {
-          "tag": "High rated"
-        },
-        {
-          "tag": "Interpretability: Not addressed"
-        },
-        {
           "tag": "Latent space"
         },
         {
-          "tag": "MLP"
-        },
-        {
-          "tag": "Multivariate"
+          "tag": "Autoencoder"
         },
         {
           "tag": "notion"
         },
         {
-          "tag": "Oversampling"
+          "tag": "1D input"
+        },
+        {
+          "tag": "Classified"
         },
         {
           "tag": "Read"
         },
         {
-          "tag": "Representation"
+          "tag": "Oversampling"
+        },
+        {
+          "tag": "Health degradation properties"
+        },
+        {
+          "tag": "Multivariate"
         },
         {
           "tag": "RPlan: A"
         },
         {
+          "tag": "High rated"
+        },
+        {
+          "tag": "Chemical plant"
+        },
+        {
           "tag": "Single entity"
+        },
+        {
+          "tag": "Anomaly Score: Dynamic"
+        },
+        {
+          "tag": "Interpretability: Not addressed"
+        },
+        {
+          "tag": "Representation"
+        },
+        {
+          "tag": "MLP"
+        },
+        {
+          "tag": "AD output"
         }
       ],
       "relations": {},
       "dateAdded": "2024-03-20T16:16:00Z",
-      "dateModified": "2025-06-06T17:04:03Z",
+      "dateModified": "2025-06-08T11:38:48Z",
       "uri": "http://zotero.org/users/13675710/items/HMAYULJ4",
       "itemID": 160,
       "attachments": [
@@ -1594,7 +1597,7 @@
         },
         {
           "key": "DBMJE3XX",
-          "version": 8755,
+          "version": 9378,
           "itemType": "attachment",
           "title": "Notion",
           "url": "notion://www.notion.so/Kim-et-al-2020-89571791e2d8434f996042804c01fc35",
@@ -1603,11 +1606,11 @@
           "linkMode": "linked_url",
           "contentType": "",
           "charset": "",
-          "note": "<h2 style=\"background-color: #ff666680;\">Do not modify or delete!</h2>\n<p>This link attachment serves as a reference for\n<a href=\"https://github.com/dvanoni/notero\">Notero</a>\nso that it can properly update the Notion page for this item.</p>\n<p>Last synced: 6/6/2025, 19:04:07</p>\n<pre id=\"notero-synced-notes\">{\"containerBlockID\":\"2053c3c2-f8f2-813b-b17e-f13ff85df749\",\"notes\":{\"WDDUJ6N7\":{\"blockID\":\"2053c3c2-f8f2-8195-b72b-cbcf89f8893b\",\"syncedAt\":\"2025-06-01T09:31:01.810Z\"}}}</pre>",
+          "note": "<h2 style=\"background-color: #ff666680;\">Do not modify or delete!</h2>\n<p>This link attachment serves as a reference for\n<a href=\"https://github.com/dvanoni/notero\">Notero</a>\nso that it can properly update the Notion page for this item.</p>\n<p>Last synced: 6/9/2025, 5:17:32 PM</p>\n<pre id=\"notero-synced-notes\">{\"containerBlockID\":\"2053c3c2-f8f2-813b-b17e-f13ff85df749\",\"notes\":{\"WDDUJ6N7\":{\"blockID\":\"2053c3c2-f8f2-8195-b72b-cbcf89f8893b\",\"syncedAt\":\"2025-06-01T09:31:01.810Z\"}}}</pre>",
           "tags": [],
           "relations": {},
           "dateAdded": "2024-03-26T18:03:37Z",
-          "dateModified": "2025-06-06T17:04:07Z",
+          "dateModified": "2025-06-09T15:17:32Z",
           "uri": "http://zotero.org/users/13675710/items/DBMJE3XX"
         }
       ],
@@ -1666,49 +1669,61 @@
       ],
       "tags": [
         {
-          "tag": "1D input"
-        },
-        {
-          "tag": "Adds context info"
-        },
-        {
           "tag": "Anomaly detection"
-        },
-        {
-          "tag": "Anomaly Score: Dynamic"
-        },
-        {
-          "tag": "Autoencoder"
-        },
-        {
-          "tag": "Classified"
-        },
-        {
-          "tag": "Data handling techniques"
         },
         {
           "tag": "Deep Learning"
         },
         {
+          "tag": "Latent space"
+        },
+        {
+          "tag": "Transformer"
+        },
+        {
+          "tag": "Autoencoder"
+        },
+        {
+          "tag": "Variable Autoencoder"
+        },
+        {
+          "tag": "notion"
+        },
+        {
+          "tag": "Adds context info"
+        },
+        {
+          "tag": "Data handling techniques"
+        },
+        {
+          "tag": "1D input"
+        },
+        {
+          "tag": "Classified"
+        },
+        {
+          "tag": "Read"
+        },
+        {
           "tag": "GAN"
-        },
-        {
-          "tag": "Generic / Benchmark data"
-        },
-        {
-          "tag": "Good anomalies type explanation"
-        },
-        {
-          "tag": "Good Autoencoder theory"
         },
         {
           "tag": "Good task theory (DL)"
         },
         {
-          "tag": "Good time series theory"
+          "tag": "Good Autoencoder theory"
         },
         {
-          "tag": "High rated"
+          "tag": "Re-read"
+        },
+        {
+          "tag": "Good anomalies type explanation"
+        },
+        {
+          "tag": "state of the art"
+        },
+        {
+          "tag": "Good time series theory"
         },
         {
           "tag": "Industrial data"
@@ -1717,43 +1732,31 @@
           "tag": "Interpretability"
         },
         {
-          "tag": "Latent space"
+          "tag": "RPlan: A"
         },
         {
-          "tag": "MLP"
-        },
-        {
-          "tag": "notion"
+          "tag": "High rated"
         },
         {
           "tag": "Output residuals"
         },
         {
-          "tag": "Re-read"
+          "tag": "Single entity"
         },
         {
-          "tag": "Read"
+          "tag": "Generic / Benchmark data"
+        },
+        {
+          "tag": "Anomaly Score: Dynamic"
         },
         {
           "tag": "Representation"
         },
         {
-          "tag": "RPlan: A"
-        },
-        {
-          "tag": "Single entity"
-        },
-        {
-          "tag": "state of the art"
-        },
-        {
-          "tag": "Transformer"
-        },
-        {
           "tag": "Univariate"
         },
         {
-          "tag": "Variable Autoencoder"
+          "tag": "MLP"
         }
       ],
       "relations": {},
@@ -1775,7 +1778,7 @@
         },
         {
           "key": "988XZGS2",
-          "version": 8772,
+          "version": 9382,
           "itemType": "attachment",
           "title": "Notion",
           "url": "notion://www.notion.so/Lee-et-al-2024-1643c3c2f8f281b88695e19a3370c586",
@@ -1784,11 +1787,11 @@
           "linkMode": "linked_url",
           "contentType": "",
           "charset": "",
-          "note": "<h2 style=\"background-color: #ff666680;\">Do not modify or delete!</h2>\n<p>This link attachment serves as a reference for\n<a href=\"https://github.com/dvanoni/notero\">Notero</a>\nso that it can properly update the Notion page for this item.</p>\n<p>Last synced: 6/6/2025, 19:07:58</p>\n<pre id=\"notero-synced-notes\">{\"containerBlockID\":\"2053c3c2-f8f2-817c-8622-e0663aff7e6f\",\"notes\":{\"MNPXAK86\":{\"blockID\":\"2053c3c2-f8f2-81d5-b6f0-d979ddde3551\",\"syncedAt\":\"2025-06-01T08:30:02.735Z\"}}}</pre>",
+          "note": "<h2 style=\"background-color: #ff666680;\">Do not modify or delete!</h2>\n<p>This link attachment serves as a reference for\n<a href=\"https://github.com/dvanoni/notero\">Notero</a>\nso that it can properly update the Notion page for this item.</p>\n<p>Last synced: 6/9/2025, 5:17:49 PM</p>\n<pre id=\"notero-synced-notes\">{\"containerBlockID\":\"2053c3c2-f8f2-817c-8622-e0663aff7e6f\",\"notes\":{\"MNPXAK86\":{\"blockID\":\"2053c3c2-f8f2-81d5-b6f0-d979ddde3551\",\"syncedAt\":\"2025-06-01T08:30:02.735Z\"}}}</pre>",
           "tags": [],
           "relations": {},
           "dateAdded": "2024-12-22T11:42:09Z",
-          "dateModified": "2025-06-06T17:07:58Z",
+          "dateModified": "2025-06-09T15:17:49Z",
           "uri": "http://zotero.org/users/13675710/items/988XZGS2"
         }
       ],
@@ -1860,70 +1863,70 @@
       ],
       "tags": [
         {
-          "tag": "1D input"
-        },
-        {
-          "tag": "Adversarial training"
-        },
-        {
           "tag": "Anomaly detection"
-        },
-        {
-          "tag": "Anomaly Score: Dynamic"
-        },
-        {
-          "tag": "Attention"
-        },
-        {
-          "tag": "Classified"
         },
         {
           "tag": "Deep Learning"
         },
         {
-          "tag": "GAN"
-        },
-        {
-          "tag": "Generic / Benchmark data"
-        },
-        {
-          "tag": "Good task theory (DL)"
-        },
-        {
-          "tag": "Good time series theory"
-        },
-        {
-          "tag": "High rated"
-        },
-        {
-          "tag": "Interpretability: Not addressed"
-        },
-        {
-          "tag": "Multivariate"
+          "tag": "Transformer"
         },
         {
           "tag": "notion"
         },
         {
-          "tag": "Re-read"
+          "tag": "1D input"
+        },
+        {
+          "tag": "Classified"
         },
         {
           "tag": "Read"
         },
         {
-          "tag": "Reconstruction"
+          "tag": "Attention"
+        },
+        {
+          "tag": "GAN"
+        },
+        {
+          "tag": "Good task theory (DL)"
+        },
+        {
+          "tag": "Re-read"
+        },
+        {
+          "tag": "Good time series theory"
+        },
+        {
+          "tag": "Multivariate"
+        },
+        {
+          "tag": "Adversarial training"
         },
         {
           "tag": "RPlan: B"
         },
         {
+          "tag": "High rated"
+        },
+        {
           "tag": "Single entity"
         },
         {
-          "tag": "SOTA"
+          "tag": "Generic / Benchmark data"
         },
         {
-          "tag": "Transformer"
+          "tag": "Reconstruction"
+        },
+        {
+          "tag": "Anomaly Score: Dynamic"
+        },
+        {
+          "tag": "Interpretability: Not addressed"
+        },
+        {
+          "tag": "SOTA"
         }
       ],
       "relations": {},
@@ -2040,48 +2043,36 @@
       ],
       "tags": [
         {
-          "tag": "1D input"
+          "tag": "Computer Science - Machine Learning",
+          "type": 1
+        },
+        {
+          "tag": "Statistics - Machine Learning",
+          "type": 1
         },
         {
           "tag": "Anomaly detection"
         },
         {
-          "tag": "Anomaly Score: Static"
+          "tag": "Deep Learning"
         },
         {
-          "tag": "Arch type: Direct model"
+          "tag": "notion"
         },
         {
-          "tag": "Attention"
+          "tag": "1D input"
         },
         {
           "tag": "Classified"
         },
         {
+          "tag": "Read"
+        },
+        {
+          "tag": "Attention"
+        },
+        {
           "tag": "CNN"
-        },
-        {
-          "tag": "Computer Science - Distributed, Parallel, and Cluster Computing",
-          "type": 1
-        },
-        {
-          "tag": "Computer Science - Machine Learning",
-          "type": 1
-        },
-        {
-          "tag": "Deep Learning"
-        },
-        {
-          "tag": "Engine"
-        },
-        {
-          "tag": "Ensemble (CNN + Attention + LSTM)"
-        },
-        {
-          "tag": "Forecasting-based"
-        },
-        {
-          "tag": "Generic / Benchmark data"
         },
         {
           "tag": "Good task theory (DL)"
@@ -2093,22 +2084,23 @@
           "tag": "Good theory explanation (PHM)"
         },
         {
-          "tag": "Industrial data"
+          "tag": "Re-read"
         },
         {
-          "tag": "Interpretability: Not addressed"
+          "tag": "state of the art"
+        },
+        {
+          "tag": "Industrial data"
         },
         {
           "tag": "Multivariate"
         },
         {
-          "tag": "notion"
+          "tag": "Time series forecasting"
         },
         {
-          "tag": "Re-read"
-        },
-        {
-          "tag": "Read"
+          "tag": "Computer Science - Distributed, Parallel, and Cluster Computing",
+          "type": 1
         },
         {
           "tag": "RPlan: A"
@@ -2117,14 +2109,25 @@
           "tag": "Single entity"
         },
         {
-          "tag": "state of the art"
+          "tag": "Anomaly Score: Static"
         },
         {
-          "tag": "Statistics - Machine Learning",
-          "type": 1
+          "tag": "Generic / Benchmark data"
         },
         {
-          "tag": "Time series forecasting"
+          "tag": "Ensemble (CNN + Attention + LSTM)"
+        },
+        {
+          "tag": "Forecasting-based"
+        },
+        {
+          "tag": "Interpretability: Not addressed"
+        },
+        {
+          "tag": "Arch type: Direct model"
+        },
+        {
+          "tag": "Engine"
         }
       ],
       "relations": {},
@@ -2146,7 +2149,7 @@
         },
         {
           "key": "JVWEHLNI",
-          "version": 8836,
+          "version": 9379,
           "itemType": "attachment",
           "title": "Notion",
           "url": "notion://www.notion.so/Liu-et-al-2021-1af3c3c2f8f2819c9527dc71eca8db7d",
@@ -2155,11 +2158,11 @@
           "linkMode": "linked_url",
           "contentType": "",
           "charset": "",
-          "note": "<h2 style=\"background-color: #ff666680;\">Do not modify or delete!</h2>\n<p>This link attachment serves as a reference for\n<a href=\"https://github.com/dvanoni/notero\">Notero</a>\nso that it can properly update the Notion page for this item.</p>\n<p>Last synced: 6/6/2025, 19:24:38</p>\n<pre id=\"notero-synced-notes\">{\"containerBlockID\":\"20a3c3c2-f8f2-815e-9dbe-c10bf23aefae\",\"notes\":{\"X7WI4SLR\":{\"blockID\":\"20a3c3c2-f8f2-8191-9226-c64cd57ad73c\",\"syncedAt\":\"2025-06-06T13:34:19.469Z\"},\"72DLA2QQ\":{\"blockID\":\"20a3c3c2-f8f2-81c6-ba69-feb6ee2a820a\",\"syncedAt\":\"2025-06-06T13:34:21.455Z\"}}}</pre>",
+          "note": "<h2 style=\"background-color: #ff666680;\">Do not modify or delete!</h2>\n<p>This link attachment serves as a reference for\n<a href=\"https://github.com/dvanoni/notero\">Notero</a>\nso that it can properly update the Notion page for this item.</p>\n<p>Last synced: 6/9/2025, 5:17:38 PM</p>\n<pre id=\"notero-synced-notes\">{\"containerBlockID\":\"20a3c3c2-f8f2-815e-9dbe-c10bf23aefae\",\"notes\":{\"X7WI4SLR\":{\"blockID\":\"20a3c3c2-f8f2-8191-9226-c64cd57ad73c\",\"syncedAt\":\"2025-06-06T13:34:19.469Z\"},\"72DLA2QQ\":{\"blockID\":\"20a3c3c2-f8f2-81c6-ba69-feb6ee2a820a\",\"syncedAt\":\"2025-06-06T13:34:21.455Z\"}}}</pre>",
           "tags": [],
           "relations": {},
           "dateAdded": "2025-03-07T17:28:50Z",
-          "dateModified": "2025-06-06T17:24:38Z",
+          "dateModified": "2025-06-09T15:17:38Z",
           "uri": "http://zotero.org/users/13675710/items/JVWEHLNI"
         }
       ],
@@ -2241,7 +2244,28 @@
       ],
       "tags": [
         {
+          "tag": "Transformer"
+        },
+        {
+          "tag": "notion"
+        },
+        {
           "tag": "1D input"
+        },
+        {
+          "tag": "GAN"
+        },
+        {
+          "tag": "Multivariate"
+        },
+        {
+          "tag": "PCA"
+        },
+        {
+          "tag": "High rated"
+        },
+        {
+          "tag": "Output residuals"
         },
         {
           "tag": "Anomaly Score: Static"
@@ -2250,31 +2274,10 @@
           "tag": "Fleet data"
         },
         {
-          "tag": "GAN"
-        },
-        {
           "tag": "Generic / Benchmark data"
         },
         {
-          "tag": "High rated"
-        },
-        {
-          "tag": "Multivariate"
-        },
-        {
-          "tag": "notion"
-        },
-        {
-          "tag": "Output residuals"
-        },
-        {
-          "tag": "PCA"
-        },
-        {
           "tag": "Reconstruction"
-        },
-        {
-          "tag": "Transformer"
         }
       ],
       "relations": {
@@ -2394,22 +2397,22 @@
       ],
       "tags": [
         {
-          "tag": "2D input"
-        },
-        {
           "tag": "Anomaly detection"
-        },
-        {
-          "tag": "Anomaly Score: Static"
-        },
-        {
-          "tag": "CNN"
         },
         {
           "tag": "Deep Learning"
         },
         {
-          "tag": "Generic / Benchmark data"
+          "tag": "notion"
+        },
+        {
+          "tag": "2D input"
+        },
+        {
+          "tag": "CNN"
+        },
+        {
+          "tag": "RPlan: A"
         },
         {
           "tag": "High rated"
@@ -2418,25 +2421,25 @@
           "tag": "Normalizing Flow"
         },
         {
-          "tag": "notion"
-        },
-        {
           "tag": "Output residuals"
-        },
-        {
-          "tag": "Representation"
-        },
-        {
-          "tag": "RPlan: A"
         },
         {
           "tag": "Single entity"
         },
         {
-          "tag": "SOTA"
+          "tag": "Anomaly Score: Static"
+        },
+        {
+          "tag": "Generic / Benchmark data"
+        },
+        {
+          "tag": "Representation"
         },
         {
           "tag": "Univariate"
+        },
+        {
+          "tag": "SOTA"
         }
       ],
       "relations": {},
@@ -2555,28 +2558,49 @@
       ],
       "tags": [
         {
-          "tag": "1D input"
-        },
-        {
           "tag": "Anomaly detection"
         },
         {
-          "tag": "Anomaly Score: Static"
+          "tag": "Deep Learning"
         },
         {
-          "tag": "Arch type: Direct model"
+          "tag": "SCADA data"
         },
         {
-          "tag": "Classified"
-        },
-        {
-          "tag": "Clean noise in training data"
+          "tag": "notion"
         },
         {
           "tag": "Data handling techniques"
         },
         {
-          "tag": "Deep Learning"
+          "tag": "1D input"
+        },
+        {
+          "tag": "Classified"
+        },
+        {
+          "tag": "Read"
+        },
+        {
+          "tag": "Good task theory (DL)"
+        },
+        {
+          "tag": "Processed data"
+        },
+        {
+          "tag": "LSTM"
+        },
+        {
+          "tag": "Clean noise in training data"
+        },
+        {
+          "tag": "Multivariate"
+        },
+        {
+          "tag": "RPlan: A"
+        },
+        {
+          "tag": "Anomaly Score: Static"
         },
         {
           "tag": "Fleet data"
@@ -2585,34 +2609,13 @@
           "tag": "Forecasting-based"
         },
         {
-          "tag": "Good task theory (DL)"
-        },
-        {
           "tag": "Interpretability: Not addressed"
         },
         {
+          "tag": "Arch type: Direct model"
+        },
+        {
           "tag": "IoT devices"
-        },
-        {
-          "tag": "LSTM"
-        },
-        {
-          "tag": "Multivariate"
-        },
-        {
-          "tag": "notion"
-        },
-        {
-          "tag": "Processed data"
-        },
-        {
-          "tag": "Read"
-        },
-        {
-          "tag": "RPlan: A"
-        },
-        {
-          "tag": "SCADA data"
         }
       ],
       "relations": {
@@ -2627,7 +2630,7 @@
       "attachments": [
         {
           "key": "2MN465YI",
-          "version": 8763,
+          "version": 9381,
           "itemType": "attachment",
           "title": "Notion",
           "url": "notion://www.notion.so/Minghu-Zhang-et-al-2020-c1e61373a3d54007bca993b556073d16",
@@ -2636,7 +2639,7 @@
           "linkMode": "linked_url",
           "contentType": "",
           "charset": "",
-          "note": "<h2 style=\"background-color: #ff666680;\">Do not modify or delete!</h2>\n<p>This link attachment serves as a reference for\n<a href=\"https://github.com/dvanoni/notero\">Notero</a>\nso that it can properly update the Notion page for this item.</p>\n<p>Last synced: 6/6/2025, 19:06:00</p>\n<pre id=\"notero-synced-notes\">{\"containerBlockID\":\"2053c3c2-f8f2-81b9-bac7-fee5dd3ad3a5\",\"notes\":{\"2N6FUHBD\":{\"blockID\":\"2053c3c2-f8f2-81d5-bd5d-ec89d60bd2e0\",\"syncedAt\":\"2025-06-01T08:29:37.338Z\"}}}</pre>",
+          "note": "<h2 style=\"background-color: #ff666680;\">Do not modify or delete!</h2>\n<p>This link attachment serves as a reference for\n<a href=\"https://github.com/dvanoni/notero\">Notero</a>\nso that it can properly update the Notion page for this item.</p>\n<p>Last synced: 6/9/2025, 5:17:51 PM</p>\n<pre id=\"notero-synced-notes\">{\"containerBlockID\":\"2053c3c2-f8f2-81b9-bac7-fee5dd3ad3a5\",\"notes\":{\"2N6FUHBD\":{\"blockID\":\"2053c3c2-f8f2-81d5-bd5d-ec89d60bd2e0\",\"syncedAt\":\"2025-06-01T08:29:37.338Z\"}}}</pre>",
           "tags": [],
           "relations": {
             "dc:replaces": [
@@ -2644,7 +2647,7 @@
             ]
           },
           "dateAdded": "2024-04-27T17:01:53Z",
-          "dateModified": "2025-06-06T17:06:00Z",
+          "dateModified": "2025-06-09T15:17:51Z",
           "uri": "http://zotero.org/users/13675710/items/2MN465YI"
         },
         {
@@ -2680,7 +2683,7 @@
     },
     {
       "key": "T49ATRLX",
-      "version": 8756,
+      "version": 8930,
       "itemType": "journalArticle",
       "title": "FuseAD: Unsupervised Anomaly Detection in Streaming Sensors Data by Fusing Statistical and Deep Learning Models",
       "abstractNote": "The need for robust unsupervised anomaly detection in streaming data is increasing rapidly in the current era of smart devices, where enormous data are gathered from numerous sensors. These sensors record the internal state of a machine, the external environment, and the interaction of machines with other machines and humans. It is of prime importance to leverage this information in order to minimize downtime of machines, or even avoid downtime completely by constant monitoring. Since each device generates a different type of streaming data, it is normally the case that a speciﬁc kind of anomaly detection technique performs better than the others depending on the data type. For some types of data and use-cases, statistical anomaly detection techniques work better, whereas for others, deep learning-based techniques are preferred. In this paper, we present a novel anomaly detection technique, FuseAD, which takes advantage of both statistical and deep-learning-based approaches by fusing them together in a residual fashion. The obtained results show an increase in area under the curve (AUC) as compared to state-of-the-art anomaly detection methods when FuseAD is tested on a publicly available dataset (Yahoo Webscope benchmark). The obtained results advocate that this fusion-based technique can obtain the best of both worlds by combining their strengths and complementing their weaknesses. We also perform an ablation study to quantify the contribution of the individual components in FuseAD, i.e., the statistical ARIMA model as well as the deep-learning-based convolutional neural network (CNN) model.",
@@ -2727,28 +2730,28 @@
       ],
       "tags": [
         {
-          "tag": "1D input"
-        },
-        {
-          "tag": "Anomaly Score: Static"
-        },
-        {
-          "tag": "Autoencoder"
-        },
-        {
-          "tag": "Classified"
-        },
-        {
-          "tag": "CNN"
+          "tag": "Statistics - Machine Learning"
         },
         {
           "tag": "Deep Learning"
         },
         {
-          "tag": "Forecasting-based"
+          "tag": "Autoencoder"
         },
         {
-          "tag": "Generic / Benchmark data"
+          "tag": "notion"
+        },
+        {
+          "tag": "1D input"
+        },
+        {
+          "tag": "Classified"
+        },
+        {
+          "tag": "Read"
+        },
+        {
+          "tag": "CNN"
         },
         {
           "tag": "Good task theory (DL)"
@@ -2757,36 +2760,42 @@
           "tag": "Multivariate"
         },
         {
-          "tag": "notion"
-        },
-        {
-          "tag": "Output residuals"
-        },
-        {
           "tag": "Potential reference"
         },
         {
-          "tag": "Read"
+          "tag": "To read for paper"
         },
         {
           "tag": "RPlan: B"
         },
         {
+          "tag": "Output residuals"
+        },
+        {
           "tag": "Single entity"
+        },
+        {
+          "tag": "Anomaly Score: Static"
+        },
+        {
+          "tag": "Generic / Benchmark data"
+        },
+        {
+          "tag": "Forecasting-based"
         },
         {
           "tag": "SOTA"
         },
         {
-          "tag": "Statistics - Machine Learning"
+          "tag": "AD output"
         },
         {
-          "tag": "To read for paper"
+          "tag": "Benchmark data"
         }
       ],
       "relations": {},
       "dateAdded": "2024-04-25T15:52:00Z",
-      "dateModified": "2025-06-06T17:04:34Z",
+      "dateModified": "2025-06-08T11:45:34Z",
       "uri": "http://zotero.org/users/13675710/items/T49ATRLX",
       "itemID": 348,
       "attachments": [
@@ -2803,7 +2812,7 @@
         },
         {
           "key": "MVZU5SRL",
-          "version": 8758,
+          "version": 9378,
           "itemType": "attachment",
           "title": "Notion",
           "url": "notion://www.notion.so/Munir-et-al-2019-83bf23b202174b94af2d37bb714df589",
@@ -2812,11 +2821,11 @@
           "linkMode": "linked_url",
           "contentType": "",
           "charset": "",
-          "note": "<h2 style=\"background-color: #ff666680;\">Do not modify or delete!</h2>\n<p>This link attachment serves as a reference for\n<a href=\"https://github.com/dvanoni/notero\">Notero</a>\nso that it can properly update the Notion page for this item.</p>\n<p>Last synced: 6/6/2025, 19:04:42</p>\n<pre id=\"notero-synced-notes\">{\"containerBlockID\":\"20a3c3c2-f8f2-810e-b7cb-eda558d614b9\",\"notes\":{\"TI2UTT95\":{\"blockID\":\"20a3c3c2-f8f2-81e6-bf84-cad38cc9ee5a\",\"syncedAt\":\"2025-06-06T16:22:29.837Z\"}}}</pre>",
+          "note": "<h2 style=\"background-color: #ff666680;\">Do not modify or delete!</h2>\n<p>This link attachment serves as a reference for\n<a href=\"https://github.com/dvanoni/notero\">Notero</a>\nso that it can properly update the Notion page for this item.</p>\n<p>Last synced: 6/9/2025, 5:17:31 PM</p>\n<pre id=\"notero-synced-notes\">{\"containerBlockID\":\"20a3c3c2-f8f2-810e-b7cb-eda558d614b9\",\"notes\":{\"TI2UTT95\":{\"blockID\":\"20a3c3c2-f8f2-81e6-bf84-cad38cc9ee5a\",\"syncedAt\":\"2025-06-06T16:22:29.837Z\"}}}</pre>",
           "tags": [],
           "relations": {},
           "dateAdded": "2024-04-25T15:52:09Z",
-          "dateModified": "2025-06-06T17:04:42Z",
+          "dateModified": "2025-06-09T15:17:31Z",
           "uri": "http://zotero.org/users/13675710/items/MVZU5SRL"
         }
       ],
@@ -2873,81 +2882,81 @@
       ],
       "tags": [
         {
-          "tag": "1D input"
+          "tag": "Computer Science - Machine Learning",
+          "type": 1
         },
         {
           "tag": "Anomaly detection"
         },
         {
-          "tag": "Anomaly Score: Static"
+          "tag": "Deep Learning"
         },
         {
-          "tag": "Attention"
+          "tag": "Transformer"
         },
         {
           "tag": "Autoencoder"
         },
         {
+          "tag": "notion"
+        },
+        {
+          "tag": "1D input"
+        },
+        {
           "tag": "Classified"
+        },
+        {
+          "tag": "Read"
+        },
+        {
+          "tag": "Attention"
+        },
+        {
+          "tag": "Good task theory (DL)"
+        },
+        {
+          "tag": "Good Autoencoder theory"
+        },
+        {
+          "tag": "Good anomalies type explanation"
+        },
+        {
+          "tag": "state of the art"
         },
         {
           "tag": "Computer Science - Artificial Intelligence",
           "type": 1
         },
         {
-          "tag": "Computer Science - Machine Learning",
-          "type": 1
-        },
-        {
-          "tag": "Deep Learning"
-        },
-        {
-          "tag": "Forecasting-based"
-        },
-        {
-          "tag": "Generic / Benchmark data"
-        },
-        {
-          "tag": "Good anomalies type explanation"
-        },
-        {
-          "tag": "Good Autoencoder theory"
-        },
-        {
-          "tag": "Good task theory (DL)"
-        },
-        {
           "tag": "Multivariate"
-        },
-        {
-          "tag": "notion"
-        },
-        {
-          "tag": "Output residuals"
         },
         {
           "tag": "Potential reference"
         },
         {
-          "tag": "Read"
+          "tag": "To read for paper"
         },
         {
           "tag": "RPlan: B"
         },
         {
+          "tag": "Output residuals"
+        },
+        {
           "tag": "Single entity"
         },
         {
+          "tag": "Anomaly Score: Static"
+        },
+        {
+          "tag": "Generic / Benchmark data"
+        },
+        {
+          "tag": "Forecasting-based"
+        },
+        {
           "tag": "SOTA"
-        },
-        {
-          "tag": "state of the art"
-        },
-        {
-          "tag": "To read for paper"
-        },
-        {
-          "tag": "Transformer"
         }
       ],
       "relations": {},
@@ -2969,7 +2978,7 @@
         },
         {
           "key": "U8KQDB6I",
-          "version": 8790,
+          "version": 9382,
           "itemType": "attachment",
           "title": "Notion",
           "url": "notion://www.notion.so/Najafi-et-al-2024-1533c3c2f8f2812e9ca6fae04317c91b",
@@ -2978,11 +2987,11 @@
           "linkMode": "linked_url",
           "contentType": "",
           "charset": "",
-          "note": "<h2 style=\"background-color: #ff666680;\">Do not modify or delete!</h2>\n<p>This link attachment serves as a reference for\n<a href=\"https://github.com/dvanoni/notero\">Notero</a>\nso that it can properly update the Notion page for this item.</p>\n<p>Last synced: 6/6/2025, 19:11:40</p>\n<pre id=\"notero-synced-notes\">{\"containerBlockID\":\"2053c3c2-f8f2-8170-ba8a-dfbbdaa70f89\",\"notes\":{\"CEW3M7F8\":{\"blockID\":\"2053c3c2-f8f2-8173-9978-f0d3507f3594\",\"syncedAt\":\"2025-06-01T08:30:11.580Z\"}}}</pre>",
+          "note": "<h2 style=\"background-color: #ff666680;\">Do not modify or delete!</h2>\n<p>This link attachment serves as a reference for\n<a href=\"https://github.com/dvanoni/notero\">Notero</a>\nso that it can properly update the Notion page for this item.</p>\n<p>Last synced: 6/9/2025, 5:17:44 PM</p>\n<pre id=\"notero-synced-notes\">{\"containerBlockID\":\"2053c3c2-f8f2-8170-ba8a-dfbbdaa70f89\",\"notes\":{\"CEW3M7F8\":{\"blockID\":\"2053c3c2-f8f2-8173-9978-f0d3507f3594\",\"syncedAt\":\"2025-06-01T08:30:11.580Z\"}}}</pre>",
           "tags": [],
           "relations": {},
           "dateAdded": "2024-12-05T12:13:52Z",
-          "dateModified": "2025-06-06T17:11:40Z",
+          "dateModified": "2025-06-09T15:17:44Z",
           "uri": "http://zotero.org/users/13675710/items/U8KQDB6I"
         }
       ],
@@ -3062,25 +3071,55 @@
       ],
       "tags": [
         {
-          "tag": "1D input"
-        },
-        {
           "tag": "Anomaly detection"
         },
         {
-          "tag": "Anomaly Score: Static"
+          "tag": "Deep Learning"
         },
         {
-          "tag": "Arch type: Direct model"
+          "tag": "Transformer"
         },
         {
-          "tag": "Attention"
+          "tag": "notion"
+        },
+        {
+          "tag": "1D input"
         },
         {
           "tag": "Classified"
         },
         {
-          "tag": "Deep Learning"
+          "tag": "Read"
+        },
+        {
+          "tag": "Attention"
+        },
+        {
+          "tag": "Good task theory (DL)"
+        },
+        {
+          "tag": "Re-read"
+        },
+        {
+          "tag": "Good anomalies type explanation"
+        },
+        {
+          "tag": "state of the art"
+        },
+        {
+          "tag": "Good time series theory"
+        },
+        {
+          "tag": "Multivariate"
+        },
+        {
+          "tag": "RPlan: B"
+        },
+        {
+          "tag": "High rated"
+        },
+        {
+          "tag": "Anomaly Score: Static"
         },
         {
           "tag": "Fleet data"
@@ -3089,43 +3128,13 @@
           "tag": "Generic / Benchmark data"
         },
         {
-          "tag": "Good anomalies type explanation"
-        },
-        {
-          "tag": "Good task theory (DL)"
-        },
-        {
-          "tag": "Good time series theory"
-        },
-        {
-          "tag": "High rated"
+          "tag": "Reconstruction"
         },
         {
           "tag": "Interpretability: Not addressed"
         },
         {
-          "tag": "Multivariate"
-        },
-        {
-          "tag": "notion"
-        },
-        {
-          "tag": "Re-read"
-        },
-        {
-          "tag": "Read"
-        },
-        {
-          "tag": "Reconstruction"
-        },
-        {
-          "tag": "RPlan: B"
-        },
-        {
-          "tag": "state of the art"
-        },
-        {
-          "tag": "Transformer"
+          "tag": "Arch type: Direct model"
         }
       ],
       "relations": {},
@@ -3147,7 +3156,7 @@
         },
         {
           "key": "RU8LXTRF",
-          "version": 8783,
+          "version": 9382,
           "itemType": "attachment",
           "title": "Notion",
           "url": "notion://www.notion.so/Nam-et-al-2024-15c3c3c2f8f2817a913ec36648e2b29b",
@@ -3156,11 +3165,11 @@
           "linkMode": "linked_url",
           "contentType": "",
           "charset": "",
-          "note": "<h2 style=\"background-color: #ff666680;\">Do not modify or delete!</h2>\n<p>This link attachment serves as a reference for\n<a href=\"https://github.com/dvanoni/notero\">Notero</a>\nso that it can properly update the Notion page for this item.</p>\n<p>Last synced: 6/6/2025, 19:09:31</p>\n<pre id=\"notero-synced-notes\">{\"containerBlockID\":\"2053c3c2-f8f2-813d-b1ed-f7a4070edddf\",\"notes\":{\"58D542GC\":{\"blockID\":\"2053c3c2-f8f2-812f-80de-c2231f613d66\",\"syncedAt\":\"2025-06-01T08:30:06.077Z\"}}}</pre>",
+          "note": "<h2 style=\"background-color: #ff666680;\">Do not modify or delete!</h2>\n<p>This link attachment serves as a reference for\n<a href=\"https://github.com/dvanoni/notero\">Notero</a>\nso that it can properly update the Notion page for this item.</p>\n<p>Last synced: 6/9/2025, 5:17:48 PM</p>\n<pre id=\"notero-synced-notes\">{\"containerBlockID\":\"2053c3c2-f8f2-813d-b1ed-f7a4070edddf\",\"notes\":{\"58D542GC\":{\"blockID\":\"2053c3c2-f8f2-812f-80de-c2231f613d66\",\"syncedAt\":\"2025-06-01T08:30:06.077Z\"}}}</pre>",
           "tags": [],
           "relations": {},
           "dateAdded": "2024-12-14T12:47:13Z",
-          "dateModified": "2025-06-06T17:09:31Z",
+          "dateModified": "2025-06-09T15:17:48Z",
           "uri": "http://zotero.org/users/13675710/items/RU8LXTRF"
         }
       ],
@@ -3227,34 +3236,26 @@
       ],
       "tags": [
         {
-          "tag": "1D input"
+          "tag": "Computer Science - Machine Learning",
+          "type": 1
         },
         {
           "tag": "Anomaly detection"
         },
         {
-          "tag": "Anomaly Score: Static"
+          "tag": "notion"
         },
         {
-          "tag": "Arch type: Direct model"
+          "tag": "Data handling techniques"
+        },
+        {
+          "tag": "1D input"
         },
         {
           "tag": "Classified"
         },
         {
-          "tag": "Computer Science - Artificial Intelligence",
-          "type": 1
-        },
-        {
-          "tag": "Computer Science - Machine Learning",
-          "type": 1
-        },
-        {
-          "tag": "Computer Science - Neural and Evolutionary Computing",
-          "type": 1
-        },
-        {
-          "tag": "Data handling techniques"
+          "tag": "Read"
         },
         {
           "tag": "Good task theory (DL)"
@@ -3266,28 +3267,27 @@
           "tag": "Good theory explanation (PHM)"
         },
         {
-          "tag": "Good time series theory"
+          "tag": "Re-read"
         },
         {
-          "tag": "Interpretability: Not addressed"
+          "tag": "state of the art"
+        },
+        {
+          "tag": "Computer Science - Artificial Intelligence",
+          "type": 1
+        },
+        {
+          "tag": "Good time series theory"
         },
         {
           "tag": "Multivariate"
         },
         {
-          "tag": "notion"
-        },
-        {
           "tag": "Potential reference"
         },
         {
-          "tag": "Re-read"
-        },
-        {
-          "tag": "Read"
-        },
-        {
-          "tag": "Representation"
+          "tag": "Computer Science - Neural and Evolutionary Computing",
+          "type": 1
         },
         {
           "tag": "RPlan: A"
@@ -3296,7 +3296,16 @@
           "tag": "Single entity"
         },
         {
-          "tag": "state of the art"
+          "tag": "Anomaly Score: Static"
+        },
+        {
+          "tag": "Interpretability: Not addressed"
+        },
+        {
+          "tag": "Representation"
+        },
+        {
+          "tag": "Arch type: Direct model"
         },
         {
           "tag": "TCN"
@@ -3324,7 +3333,7 @@
         },
         {
           "key": "4V4JJDL7",
-          "version": 8801,
+          "version": 9379,
           "itemType": "attachment",
           "title": "Notion",
           "url": "notion://www.notion.so/Neupane-et-al-2022-1af3c3c2f8f281378933d3a56ae77da8",
@@ -3333,11 +3342,11 @@
           "linkMode": "linked_url",
           "contentType": "",
           "charset": "",
-          "note": "<h2 style=\"background-color: #ff666680;\">Do not modify or delete!</h2>\n<p>This link attachment serves as a reference for\n<a href=\"https://github.com/dvanoni/notero\">Notero</a>\nso that it can properly update the Notion page for this item.</p>\n<p>Last synced: 6/6/2025, 19:15:48</p>\n<pre id=\"notero-synced-notes\">{\"containerBlockID\":\"20a3c3c2-f8f2-8149-90d7-f9422e592189\",\"notes\":{\"RNWEGVR4\":{\"blockID\":\"20a3c3c2-f8f2-81d4-a565-d6dd02ecf13b\",\"syncedAt\":\"2025-06-06T13:34:14.701Z\"}}}</pre>",
+          "note": "<h2 style=\"background-color: #ff666680;\">Do not modify or delete!</h2>\n<p>This link attachment serves as a reference for\n<a href=\"https://github.com/dvanoni/notero\">Notero</a>\nso that it can properly update the Notion page for this item.</p>\n<p>Last synced: 6/9/2025, 5:17:41 PM</p>\n<pre id=\"notero-synced-notes\">{\"containerBlockID\":\"20a3c3c2-f8f2-8149-90d7-f9422e592189\",\"notes\":{\"RNWEGVR4\":{\"blockID\":\"20a3c3c2-f8f2-81d4-a565-d6dd02ecf13b\",\"syncedAt\":\"2025-06-06T13:34:14.701Z\"}}}</pre>",
           "tags": [],
           "relations": {},
           "dateAdded": "2025-03-07T17:28:52Z",
-          "dateModified": "2025-06-06T17:15:48Z",
+          "dateModified": "2025-06-09T15:17:41Z",
           "uri": "http://zotero.org/users/13675710/items/4V4JJDL7"
         }
       ],
@@ -3393,58 +3402,58 @@
       ],
       "tags": [
         {
-          "tag": "1D input"
-        },
-        {
-          "tag": "Anomaly Score: Static"
-        },
-        {
-          "tag": "Arch type: Direct model"
-        },
-        {
-          "tag": "Computer Science - Artificial Intelligence"
-        },
-        {
           "tag": "Deep Learning"
-        },
-        {
-          "tag": "Generic / Benchmark data"
-        },
-        {
-          "tag": "Good task theory (DL)"
-        },
-        {
-          "tag": "Good time series theory"
-        },
-        {
-          "tag": "MLP"
         },
         {
           "tag": "notion"
         },
         {
-          "tag": "Output residuals"
-        },
-        {
-          "tag": "Potential reference"
+          "tag": "1D input"
         },
         {
           "tag": "Read"
         },
         {
-          "tag": "Reconstruction"
-        },
-        {
-          "tag": "RPlan: B"
-        },
-        {
-          "tag": "Single entity"
+          "tag": "Good task theory (DL)"
         },
         {
           "tag": "state of the art"
         },
         {
+          "tag": "Computer Science - Artificial Intelligence"
+        },
+        {
+          "tag": "Good time series theory"
+        },
+        {
+          "tag": "Potential reference"
+        },
+        {
+          "tag": "RPlan: B"
+        },
+        {
+          "tag": "Output residuals"
+        },
+        {
+          "tag": "Single entity"
+        },
+        {
+          "tag": "Anomaly Score: Static"
+        },
+        {
+          "tag": "Generic / Benchmark data"
+        },
+        {
+          "tag": "Reconstruction"
+        },
+        {
           "tag": "Univariate"
+        },
+        {
+          "tag": "Arch type: Direct model"
+        },
+        {
+          "tag": "MLP"
         }
       ],
       "relations": {},
@@ -3455,7 +3464,7 @@
       "attachments": [
         {
           "key": "XU24D2XN",
-          "version": 8846,
+          "version": 9379,
           "itemType": "attachment",
           "title": "Notion",
           "url": "notion://www.notion.so/Shipmon-et-al-2017-1b13c3c2f8f281eca9eff0bea9f968e7",
@@ -3464,11 +3473,11 @@
           "linkMode": "linked_url",
           "contentType": "",
           "charset": "",
-          "note": "<h2 style=\"background-color: #ff666680;\">Do not modify or delete!</h2>\n<p>This link attachment serves as a reference for\n<a href=\"https://github.com/dvanoni/notero\">Notero</a>\nso that it can properly update the Notion page for this item.</p>\n<p>Last synced: 6/6/2025, 19:50:50</p>\n<pre id=\"notero-synced-notes\">{\"containerBlockID\":\"2053c3c2-f8f2-814b-94a3-f591e00ee5ff\",\"notes\":{\"NZBKE78A\":{\"blockID\":\"2053c3c2-f8f2-8131-b974-f97adb316549\",\"syncedAt\":\"2025-06-01T08:29:20.836Z\"}}}</pre>",
+          "note": "<h2 style=\"background-color: #ff666680;\">Do not modify or delete!</h2>\n<p>This link attachment serves as a reference for\n<a href=\"https://github.com/dvanoni/notero\">Notero</a>\nso that it can properly update the Notion page for this item.</p>\n<p>Last synced: 6/9/2025, 5:17:37 PM</p>\n<pre id=\"notero-synced-notes\">{\"containerBlockID\":\"2053c3c2-f8f2-814b-94a3-f591e00ee5ff\",\"notes\":{\"NZBKE78A\":{\"blockID\":\"2053c3c2-f8f2-8131-b974-f97adb316549\",\"syncedAt\":\"2025-06-01T08:29:20.836Z\"}}}</pre>",
           "tags": [],
           "relations": {},
           "dateAdded": "2025-03-09T10:51:03Z",
-          "dateModified": "2025-06-06T17:50:50Z",
+          "dateModified": "2025-06-09T15:17:37Z",
           "uri": "http://zotero.org/users/13675710/items/XU24D2XN"
         },
         {
@@ -3544,49 +3553,49 @@
       ],
       "tags": [
         {
-          "tag": "1D input"
+          "tag": "Computer Science - Machine Learning"
         },
         {
           "tag": "Anomaly detection"
         },
         {
-          "tag": "Anomaly Score: Static"
-        },
-        {
-          "tag": "Arch type: SL"
-        },
-        {
-          "tag": "bearings"
-        },
-        {
-          "tag": "Clustering"
-        },
-        {
-          "tag": "Computer Science - Machine Learning"
-        },
-        {
           "tag": "Fault classification"
-        },
-        {
-          "tag": "IMMSC"
-        },
-        {
-          "tag": "Interpretability: Not addressed"
-        },
-        {
-          "tag": "Multivariate"
         },
         {
           "tag": "notion"
         },
         {
-          "tag": "Representation"
+          "tag": "1D input"
+        },
+        {
+          "tag": "bearings"
+        },
+        {
+          "tag": "Multivariate"
         },
         {
           "tag": "RPlan: A"
         },
         {
+          "tag": "Clustering"
+        },
+        {
           "tag": "Single entity"
+        },
+        {
+          "tag": "Anomaly Score: Static"
+        },
+        {
+          "tag": "Interpretability: Not addressed"
+        },
+        {
+          "tag": "Representation"
+        },
+        {
+          "tag": "Arch type: SL"
+        },
+        {
+          "tag": "IMMSC"
         }
       ],
       "relations": {},
@@ -3597,7 +3606,7 @@
       "attachments": [
         {
           "key": "Z3EP9L49",
-          "version": 8745,
+          "version": 9381,
           "itemType": "attachment",
           "title": "Notion",
           "url": "notion://www.notion.so/Song-et-al-2019-9214326ca0cb4d6091b1f43acc91aa47",
@@ -3606,11 +3615,11 @@
           "linkMode": "linked_url",
           "contentType": "",
           "charset": "",
-          "note": "<h2 style=\"background-color: #ff666680;\">Do not modify or delete!</h2>\n<p>This link attachment serves as a reference for\n<a href=\"https://github.com/dvanoni/notero\">Notero</a>\nso that it can properly update the Notion page for this item.</p>\n<p>Last synced: 6/6/2025, 19:02:30</p>",
+          "note": "<h2 style=\"background-color: #ff666680;\">Do not modify or delete!</h2>\n<p>This link attachment serves as a reference for\n<a href=\"https://github.com/dvanoni/notero\">Notero</a>\nso that it can properly update the Notion page for this item.</p>\n<p>Last synced: 6/9/2025, 5:17:52 PM</p>",
           "tags": [],
           "relations": {},
           "dateAdded": "2024-03-16T11:38:18Z",
-          "dateModified": "2025-06-06T17:02:30Z",
+          "dateModified": "2025-06-09T15:17:52Z",
           "uri": "http://zotero.org/users/13675710/items/Z3EP9L49"
         },
         {
@@ -3672,61 +3681,61 @@
       ],
       "tags": [
         {
-          "tag": "1D input"
-        },
-        {
-          "tag": "Anomaly Score: Static"
+          "tag": "Latent space"
         },
         {
           "tag": "Autoencoder"
         },
         {
-          "tag": "Classified"
-        },
-        {
-          "tag": "CNN"
+          "tag": "notion"
         },
         {
           "tag": "Data handling techniques"
         },
         {
-          "tag": "ECG data"
+          "tag": "1D input"
         },
         {
-          "tag": "Fleet data"
-        },
-        {
-          "tag": "Good anomalies type explanation"
-        },
-        {
-          "tag": "Good Autoencoder theory"
-        },
-        {
-          "tag": "Good task theory (DL)"
-        },
-        {
-          "tag": "High rated"
-        },
-        {
-          "tag": "Latent space"
-        },
-        {
-          "tag": "Multivariate"
-        },
-        {
-          "tag": "notion"
-        },
-        {
-          "tag": "Output residuals"
+          "tag": "Classified"
         },
         {
           "tag": "Read"
         },
         {
-          "tag": "Reconstruction"
+          "tag": "CNN"
+        },
+        {
+          "tag": "Good task theory (DL)"
+        },
+        {
+          "tag": "Good Autoencoder theory"
+        },
+        {
+          "tag": "Good anomalies type explanation"
+        },
+        {
+          "tag": "Multivariate"
         },
         {
           "tag": "RPlan: B"
+        },
+        {
+          "tag": "High rated"
+        },
+        {
+          "tag": "Output residuals"
+        },
+        {
+          "tag": "Anomaly Score: Static"
+        },
+        {
+          "tag": "Fleet data"
+        },
+        {
+          "tag": "Reconstruction"
+        },
+        {
+          "tag": "ECG data"
         }
       ],
       "relations": {},
@@ -3819,28 +3828,7 @@
       ],
       "tags": [
         {
-          "tag": "1D input"
-        },
-        {
-          "tag": "Adversarial training"
-        },
-        {
           "tag": "Anomaly detection"
-        },
-        {
-          "tag": "Anomaly Score: Dynamic"
-        },
-        {
-          "tag": "Attention"
-        },
-        {
-          "tag": "Autoencoder"
-        },
-        {
-          "tag": "Classified"
-        },
-        {
-          "tag": "Data handling techniques"
         },
         {
           "tag": "Deep Learning"
@@ -3849,61 +3837,82 @@
           "tag": "Fault classification"
         },
         {
-          "tag": "Generic / Benchmark data"
-        },
-        {
-          "tag": "Good Autoencoder theory"
-        },
-        {
-          "tag": "Good task theory (DL)"
-        },
-        {
-          "tag": "Good time series theory"
-        },
-        {
-          "tag": "High rated"
-        },
-        {
-          "tag": "Industrial data"
-        },
-        {
-          "tag": "Interpretability"
-        },
-        {
           "tag": "Latent space"
         },
         {
-          "tag": "Multivariate"
+          "tag": "Transformer"
+        },
+        {
+          "tag": "Autoencoder"
         },
         {
           "tag": "notion"
         },
         {
-          "tag": "Output residuals"
+          "tag": "Data handling techniques"
         },
         {
-          "tag": "Re-read"
+          "tag": "1D input"
+        },
+        {
+          "tag": "Classified"
         },
         {
           "tag": "Read"
         },
         {
-          "tag": "Reconstruction"
+          "tag": "Attention"
         },
         {
-          "tag": "RPlan: B"
+          "tag": "Good task theory (DL)"
         },
         {
-          "tag": "Single entity"
+          "tag": "Good Autoencoder theory"
         },
         {
-          "tag": "SOTA"
+          "tag": "Re-read"
         },
         {
           "tag": "state of the art"
         },
         {
-          "tag": "Transformer"
+          "tag": "Good time series theory"
+        },
+        {
+          "tag": "Industrial data"
+        },
+        {
+          "tag": "Multivariate"
+        },
+        {
+          "tag": "Interpretability"
+        },
+        {
+          "tag": "Adversarial training"
+        },
+        {
+          "tag": "RPlan: B"
+        },
+        {
+          "tag": "High rated"
+        },
+        {
+          "tag": "Output residuals"
+        },
+        {
+          "tag": "Single entity"
+        },
+        {
+          "tag": "Generic / Benchmark data"
+        },
+        {
+          "tag": "Reconstruction"
+        },
+        {
+          "tag": "Anomaly Score: Dynamic"
+        },
+        {
+          "tag": "SOTA"
         }
       ],
       "relations": {},
@@ -3914,7 +3923,7 @@
       "attachments": [
         {
           "key": "4PU3CEQE",
-          "version": 8788,
+          "version": 9382,
           "itemType": "attachment",
           "title": "Notion",
           "url": "notion://www.notion.so/Tuli-et-al-2022-1533c3c2f8f281e1b0e9dda7a2b8d1f2",
@@ -3923,11 +3932,11 @@
           "linkMode": "linked_url",
           "contentType": "",
           "charset": "",
-          "note": "<h2 style=\"background-color: #ff666680;\">Do not modify or delete!</h2>\n<p>This link attachment serves as a reference for\n<a href=\"https://github.com/dvanoni/notero\">Notero</a>\nso that it can properly update the Notion page for this item.</p>\n<p>Last synced: 6/6/2025, 19:11:12</p>\n<pre id=\"notero-synced-notes\">{\"containerBlockID\":\"2053c3c2-f8f2-81ac-9cf1-c3df02b39920\",\"notes\":{\"IEJ7Y9GI\":{\"blockID\":\"2053c3c2-f8f2-812e-9d7f-f6bb1ecae6a1\",\"syncedAt\":\"2025-06-01T08:28:47.112Z\"},\"RZZWXQFV\":{\"blockID\":\"2053c3c2-f8f2-8147-af90-f05de3a48266\",\"syncedAt\":\"2025-06-01T08:28:49.064Z\"}}}</pre>",
+          "note": "<h2 style=\"background-color: #ff666680;\">Do not modify or delete!</h2>\n<p>This link attachment serves as a reference for\n<a href=\"https://github.com/dvanoni/notero\">Notero</a>\nso that it can properly update the Notion page for this item.</p>\n<p>Last synced: 6/9/2025, 5:17:46 PM</p>\n<pre id=\"notero-synced-notes\">{\"containerBlockID\":\"2053c3c2-f8f2-81ac-9cf1-c3df02b39920\",\"notes\":{\"IEJ7Y9GI\":{\"blockID\":\"2053c3c2-f8f2-812e-9d7f-f6bb1ecae6a1\",\"syncedAt\":\"2025-06-01T08:28:47.112Z\"},\"RZZWXQFV\":{\"blockID\":\"2053c3c2-f8f2-8147-af90-f05de3a48266\",\"syncedAt\":\"2025-06-01T08:28:49.064Z\"}}}</pre>",
           "tags": [],
           "relations": {},
           "dateAdded": "2024-12-05T12:13:57Z",
-          "dateModified": "2025-06-06T17:11:12Z",
+          "dateModified": "2025-06-09T15:17:46Z",
           "uri": "http://zotero.org/users/13675710/items/4PU3CEQE"
         },
         {
@@ -4005,7 +4014,25 @@
       ],
       "tags": [
         {
+          "tag": "Variable Autoencoder"
+        },
+        {
+          "tag": "notion"
+        },
+        {
           "tag": "1D input"
+        },
+        {
+          "tag": "LSTM"
+        },
+        {
+          "tag": "Multivariate"
+        },
+        {
+          "tag": "Marine engine"
+        },
+        {
+          "tag": "Single entity"
         },
         {
           "tag": "Anomaly Score: Dynamic"
@@ -4014,25 +4041,7 @@
           "tag": "Interpretability: Not addressed"
         },
         {
-          "tag": "LSTM"
-        },
-        {
-          "tag": "Marine engine"
-        },
-        {
-          "tag": "Multivariate"
-        },
-        {
-          "tag": "notion"
-        },
-        {
           "tag": "Representation"
-        },
-        {
-          "tag": "Single entity"
-        },
-        {
-          "tag": "Variable Autoencoder"
         }
       ],
       "relations": {},
@@ -4043,20 +4052,20 @@
       "attachments": [
         {
           "key": "G2PTQNIU",
-          "version": 8743,
+          "version": 9381,
           "itemType": "attachment",
           "title": "Notion",
-          "url": "notion://www.notion.so/Velasco-Gallego-y-Lazakis-2022-104beaa2ad524fafaabb633e41ab42d9",
+          "url": "notion://www.notion.so/Velasco-Gallego-and-Lazakis-2022-104beaa2ad524fafaabb633e41ab42d9",
           "accessDate": "2024-03-16T11:38:15Z",
           "parentItem": "PCZ9PMG9",
           "linkMode": "linked_url",
           "contentType": "",
           "charset": "",
-          "note": "<h2 style=\"background-color: #ff666680;\">Do not modify or delete!</h2>\n<p>This link attachment serves as a reference for\n<a href=\"https://github.com/dvanoni/notero\">Notero</a>\nso that it can properly update the Notion page for this item.</p>\n<p>Last synced: 6/6/2025, 19:01:41</p>\n<pre id=\"notero-synced-notes\">{\"containerBlockID\":\"2053c3c2-f8f2-8162-833a-d46bc9e116fc\",\"notes\":{\"5F2XZQTM\":{\"blockID\":\"2053c3c2-f8f2-8134-8e10-fcd75e423ab2\",\"syncedAt\":\"2025-06-01T11:32:25.846Z\"}}}</pre>",
+          "note": "<h2 style=\"background-color: #ff666680;\">Do not modify or delete!</h2>\n<p>This link attachment serves as a reference for\n<a href=\"https://github.com/dvanoni/notero\">Notero</a>\nso that it can properly update the Notion page for this item.</p>\n<p>Last synced: 6/9/2025, 5:17:53 PM</p>\n<pre id=\"notero-synced-notes\">{\"containerBlockID\":\"2053c3c2-f8f2-8162-833a-d46bc9e116fc\",\"notes\":{\"5F2XZQTM\":{\"blockID\":\"2053c3c2-f8f2-8134-8e10-fcd75e423ab2\",\"syncedAt\":\"2025-06-01T11:32:25.846Z\"}}}</pre>",
           "tags": [],
           "relations": {},
           "dateAdded": "2024-03-16T11:38:15Z",
-          "dateModified": "2025-06-06T17:01:41Z",
+          "dateModified": "2025-06-09T15:17:53Z",
           "uri": "http://zotero.org/users/13675710/items/G2PTQNIU"
         },
         {
@@ -4138,34 +4147,40 @@
       ],
       "tags": [
         {
-          "tag": "1D input"
-        },
-        {
           "tag": "Anomaly detection"
-        },
-        {
-          "tag": "Anomaly Score: Static"
-        },
-        {
-          "tag": "Attention"
-        },
-        {
-          "tag": "Autoencoder"
-        },
-        {
-          "tag": "Classified"
-        },
-        {
-          "tag": "Data handling techniques"
         },
         {
           "tag": "Deep Learning"
         },
         {
-          "tag": "Generic / Benchmark data"
+          "tag": "Transformer"
+        },
+        {
+          "tag": "Autoencoder"
+        },
+        {
+          "tag": "notion"
+        },
+        {
+          "tag": "Data handling techniques"
+        },
+        {
+          "tag": "1D input"
+        },
+        {
+          "tag": "Classified"
+        },
+        {
+          "tag": "Read"
+        },
+        {
+          "tag": "Attention"
         },
         {
           "tag": "Good task theory (DL)"
+        },
+        {
+          "tag": "state of the art"
         },
         {
           "tag": "Industrial data"
@@ -4174,31 +4189,25 @@
           "tag": "Multivariate"
         },
         {
-          "tag": "notion"
-        },
-        {
-          "tag": "Output residuals"
-        },
-        {
-          "tag": "Read"
-        },
-        {
-          "tag": "Reconstruction"
+          "tag": "To read for paper"
         },
         {
           "tag": "RPlan: B"
         },
         {
+          "tag": "Output residuals"
+        },
+        {
           "tag": "Single entity"
         },
         {
-          "tag": "state of the art"
+          "tag": "Anomaly Score: Static"
         },
         {
-          "tag": "To read for paper"
+          "tag": "Generic / Benchmark data"
         },
         {
-          "tag": "Transformer"
+          "tag": "Reconstruction"
         }
       ],
       "relations": {},
@@ -4296,74 +4305,74 @@
       ],
       "tags": [
         {
-          "tag": "1D input"
+          "tag": "Computer Science - Machine Learning",
+          "type": 1
         },
         {
           "tag": "Anomaly detection"
         },
         {
-          "tag": "Anomaly Score: Static"
-        },
-        {
-          "tag": "Attention"
-        },
-        {
-          "tag": "Autoencoder + Transformer"
-        },
-        {
-          "tag": "Classified"
-        },
-        {
-          "tag": "Computer Science - Machine Learning",
-          "type": 1
-        },
-        {
           "tag": "Deep Learning"
         },
         {
-          "tag": "Generic / Benchmark data"
-        },
-        {
-          "tag": "Good anomalies type explanation"
-        },
-        {
-          "tag": "Good task theory (DL)"
-        },
-        {
-          "tag": "Good time series theory"
-        },
-        {
-          "tag": "High rated"
-        },
-        {
-          "tag": "Multivariate"
+          "tag": "Transformer"
         },
         {
           "tag": "notion"
         },
         {
-          "tag": "Output residuals"
+          "tag": "1D input"
         },
         {
-          "tag": "Re-read"
+          "tag": "Classified"
         },
         {
           "tag": "Read"
         },
         {
-          "tag": "Reconstruction"
+          "tag": "Attention"
+        },
+        {
+          "tag": "Good task theory (DL)"
+        },
+        {
+          "tag": "Re-read"
+        },
+        {
+          "tag": "Good anomalies type explanation"
+        },
+        {
+          "tag": "Good time series theory"
+        },
+        {
+          "tag": "Multivariate"
         },
         {
           "tag": "RPlan: B"
         },
         {
+          "tag": "High rated"
+        },
+        {
+          "tag": "Output residuals"
+        },
+        {
           "tag": "Single entity"
         },
         {
-          "tag": "SOTA"
+          "tag": "Anomaly Score: Static"
         },
         {
-          "tag": "Transformer"
+          "tag": "Generic / Benchmark data"
+        },
+        {
+          "tag": "Reconstruction"
+        },
+        {
+          "tag": "Autoencoder + Transformer"
+        },
+        {
+          "tag": "SOTA"
         }
       ],
       "relations": {},
@@ -4374,7 +4383,7 @@
       "attachments": [
         {
           "key": "VEBT5J36",
-          "version": 8785,
+          "version": 9382,
           "itemType": "attachment",
           "title": "Notion",
           "url": "notion://www.notion.so/Xu-et-al-2022-15c3c3c2f8f281e6a35bfbe0e1a7bb87",
@@ -4383,11 +4392,11 @@
           "linkMode": "linked_url",
           "contentType": "",
           "charset": "",
-          "note": "<h2 style=\"background-color: #ff666680;\">Do not modify or delete!</h2>\n<p>This link attachment serves as a reference for\n<a href=\"https://github.com/dvanoni/notero\">Notero</a>\nso that it can properly update the Notion page for this item.</p>\n<p>Last synced: 6/6/2025, 19:10:22</p>\n<pre id=\"notero-synced-notes\">{\"containerBlockID\":\"2053c3c2-f8f2-812b-b03d-f04af68617ad\",\"notes\":{\"YXIDY2MN\":{\"blockID\":\"2053c3c2-f8f2-81ef-b450-d6e36816687b\",\"syncedAt\":\"2025-06-01T08:29:57.500Z\"}}}</pre>",
+          "note": "<h2 style=\"background-color: #ff666680;\">Do not modify or delete!</h2>\n<p>This link attachment serves as a reference for\n<a href=\"https://github.com/dvanoni/notero\">Notero</a>\nso that it can properly update the Notion page for this item.</p>\n<p>Last synced: 6/9/2025, 5:17:47 PM</p>\n<pre id=\"notero-synced-notes\">{\"containerBlockID\":\"2053c3c2-f8f2-812b-b03d-f04af68617ad\",\"notes\":{\"YXIDY2MN\":{\"blockID\":\"2053c3c2-f8f2-81ef-b450-d6e36816687b\",\"syncedAt\":\"2025-06-01T08:29:57.500Z\"}}}</pre>",
           "tags": [],
           "relations": {},
           "dateAdded": "2024-12-14T12:47:29Z",
-          "dateModified": "2025-06-06T17:10:22Z",
+          "dateModified": "2025-06-09T15:17:47Z",
           "uri": "http://zotero.org/users/13675710/items/VEBT5J36"
         },
         {
@@ -4456,66 +4465,54 @@
       ],
       "tags": [
         {
-          "tag": "1D input"
+          "tag": "Computer Science - Machine Learning",
+          "type": 1
         },
         {
           "tag": "Anomaly detection"
         },
         {
-          "tag": "Anomaly Score: Static"
+          "tag": "Deep Learning"
+        },
+        {
+          "tag": "Transformer"
+        },
+        {
+          "tag": "notion"
+        },
+        {
+          "tag": "1D input"
+        },
+        {
+          "tag": "Classified"
+        },
+        {
+          "tag": "Read"
         },
         {
           "tag": "Attention"
         },
         {
-          "tag": "Autoencoder + Diffusion Model"
+          "tag": "Good task theory (DL)"
         },
         {
-          "tag": "Classified"
+          "tag": "Good Autoencoder theory"
+        },
+        {
+          "tag": "Good anomalies type explanation"
+        },
+        {
+          "tag": "state of the art"
         },
         {
           "tag": "Computer Science - Artificial Intelligence",
           "type": 1
         },
         {
-          "tag": "Computer Science - Machine Learning",
-          "type": 1
-        },
-        {
-          "tag": "Deep Learning"
-        },
-        {
-          "tag": "Generic / Benchmark data"
-        },
-        {
-          "tag": "Good anomalies type explanation"
-        },
-        {
-          "tag": "Good Autoencoder theory"
-        },
-        {
-          "tag": "Good task theory (DL)"
-        },
-        {
           "tag": "Industrial data"
         },
         {
-          "tag": "Interpretability: Not addressed"
-        },
-        {
           "tag": "Multivariate"
-        },
-        {
-          "tag": "notion"
-        },
-        {
-          "tag": "Read"
-        },
-        {
-          "tag": "Recon"
-        },
-        {
-          "tag": "Reconstruction"
         },
         {
           "tag": "RPlan: B"
@@ -4524,10 +4521,22 @@
           "tag": "Single entity"
         },
         {
-          "tag": "state of the art"
+          "tag": "Anomaly Score: Static"
         },
         {
-          "tag": "Transformer"
+          "tag": "Generic / Benchmark data"
+        },
+        {
+          "tag": "Reconstruction"
+        },
+        {
+          "tag": "Interpretability: Not addressed"
+        },
+        {
+          "tag": "Autoencoder + Diffusion Model"
+        },
+        {
+          "tag": "Recon"
         }
       ],
       "relations": {},
@@ -4538,7 +4547,7 @@
       "attachments": [
         {
           "key": "FTP54NQH",
-          "version": 8766,
+          "version": 9382,
           "itemType": "attachment",
           "title": "Notion",
           "url": "notion://www.notion.so/Yang-et-al-2023-1623c3c2f8f2816fb604e31c08b1ed39",
@@ -4547,11 +4556,11 @@
           "linkMode": "linked_url",
           "contentType": "",
           "charset": "",
-          "note": "<h2 style=\"background-color: #ff666680;\">Do not modify or delete!</h2>\n<p>This link attachment serves as a reference for\n<a href=\"https://github.com/dvanoni/notero\">Notero</a>\nso that it can properly update the Notion page for this item.</p>\n<p>Last synced: 6/6/2025, 19:06:52</p>\n<pre id=\"notero-synced-notes\">{\"containerBlockID\":\"20a3c3c2-f8f2-81f9-9cfa-efe3f4f0d3f2\",\"notes\":{\"RQ7XYSUU\":{\"blockID\":\"20a3c3c2-f8f2-81e1-ae8f-f7d4a974d5c8\",\"syncedAt\":\"2025-06-06T13:33:50.323Z\"},\"UCZ9SG3N\":{\"blockID\":\"20a3c3c2-f8f2-8174-a312-f54ce03b5c02\",\"syncedAt\":\"2025-06-06T13:33:51.389Z\"}}}</pre>",
+          "note": "<h2 style=\"background-color: #ff666680;\">Do not modify or delete!</h2>\n<p>This link attachment serves as a reference for\n<a href=\"https://github.com/dvanoni/notero\">Notero</a>\nso that it can properly update the Notion page for this item.</p>\n<p>Last synced: 6/9/2025, 5:17:50 PM</p>\n<pre id=\"notero-synced-notes\">{\"containerBlockID\":\"20a3c3c2-f8f2-81f9-9cfa-efe3f4f0d3f2\",\"notes\":{\"RQ7XYSUU\":{\"blockID\":\"20a3c3c2-f8f2-81e1-ae8f-f7d4a974d5c8\",\"syncedAt\":\"2025-06-06T13:33:50.323Z\"},\"UCZ9SG3N\":{\"blockID\":\"20a3c3c2-f8f2-8174-a312-f54ce03b5c02\",\"syncedAt\":\"2025-06-06T13:33:51.389Z\"}}}</pre>",
           "tags": [],
           "relations": {},
           "dateAdded": "2024-12-20T11:22:59Z",
-          "dateModified": "2025-06-06T17:06:52Z",
+          "dateModified": "2025-06-09T15:17:50Z",
           "uri": "http://zotero.org/users/13675710/items/FTP54NQH"
         },
         {
@@ -4599,7 +4608,7 @@
     },
     {
       "key": "87SRHVGU",
-      "version": 8532,
+      "version": 8956,
       "itemType": "journalArticle",
       "title": "Self-Supervised Learning With Signal Masking and Reconstruction for Machinery Fault Diagnosis Under Limited Labeled Data and Varying Working Condition",
       "abstractNote": "Deep learning methods are promising tools for machinery fault diagnosis in modern industry. However, the diagnostic performance of these methods will deteriorate significantly with insufficient labeled data or varying working condition. To address this problem, a self-supervised learning (SSL) method with self-attention mechanism is proposed for machinery fault diagnosis under limited labeled data and nonstationary working condition. A simple but effective pretext task is first constructed to take full advantage of unlabeled data under varying working condition. By completing the pretext task, a pretrained model is generated for effective feature representation with the constraint of signal masking and reconstruction, thus enhancing the capability of extracting discriminative features. Then, a fine-tuned model, which inherits the capability of feature extraction of pretrained one by knowledge transfer, is built by feeding into few labeled samples. Moreover, with our SSL method, transformer architecture with self-attention mechanism is used as the backbone to enhance the ability of modeling global dependency and extracting temporal information. The experimental results reveal that our method can achieve better diagnostic performance under new working condition by comparing with six advanced methods. Furthermore, a discussion on the capability of reconstruction and the classification effect is performed in this study, which demonstrates the rationality of our designed pretext task.",
@@ -4639,19 +4648,7 @@
       ],
       "tags": [
         {
-          "tag": "1D input"
-        },
-        {
           "tag": "Anomaly detection"
-        },
-        {
-          "tag": "Anomaly Score: Dynamic"
-        },
-        {
-          "tag": "Autoencoder"
-        },
-        {
-          "tag": "bearings"
         },
         {
           "tag": "Deep Learning"
@@ -4660,42 +4657,60 @@
           "tag": "Fault classification"
         },
         {
-          "tag": "High rated"
-        },
-        {
-          "tag": "Interpretability: Latent + Output residuals"
-        },
-        {
-          "tag": "notion"
-        },
-        {
-          "tag": "Reconstruction"
-        },
-        {
-          "tag": "RPlan: A"
+          "tag": "Transformer"
         },
         {
           "tag": "SCADA data"
         },
         {
+          "tag": "Autoencoder"
+        },
+        {
+          "tag": "notion"
+        },
+        {
+          "tag": "1D input"
+        },
+        {
+          "tag": "bearings"
+        },
+        {
+          "tag": "RPlan: A"
+        },
+        {
+          "tag": "High rated"
+        },
+        {
           "tag": "Single entity"
         },
         {
-          "tag": "Transformer"
+          "tag": "Reconstruction"
+        },
+        {
+          "tag": "Anomaly Score: Dynamic"
         },
         {
           "tag": "Univariate"
+        },
+        {
+          "tag": "Interpretability: Latent space"
+        },
+        {
+          "tag": "Interpretability: Latent + Output residuals"
+        },
+        {
+          "tag": "AD output"
         }
       ],
       "relations": {},
       "dateAdded": "2024-03-20T16:15:38Z",
-      "dateModified": "2025-06-06T15:03:11Z",
+      "dateModified": "2025-06-08T11:58:49Z",
       "uri": "http://zotero.org/users/13675710/items/87SRHVGU",
       "itemID": 166,
       "attachments": [
         {
           "key": "EAL6UCBK",
-          "version": 8710,
+          "version": 9378,
           "itemType": "attachment",
           "title": "Notion",
           "url": "notion://www.notion.so/Yang-et-al-2023-00c6490513ab44ee9268b214a7c18f76",
@@ -4704,11 +4719,11 @@
           "linkMode": "linked_url",
           "contentType": "",
           "charset": "",
-          "note": "<h2 style=\"background-color: #ff666680;\">Do not modify or delete!</h2>\n<p>This link attachment serves as a reference for\n<a href=\"https://github.com/dvanoni/notero\">Notero</a>\nso that it can properly update the Notion page for this item.</p>\n<p>Last synced: 6/6/2025, 18:22:12</p>\n<pre id=\"notero-synced-notes\">{\"containerBlockID\":\"2053c3c2-f8f2-81b2-a956-dfcd0e57ca19\",\"notes\":{\"TAYYXXX5\":{\"blockID\":\"2053c3c2-f8f2-8104-92c2-f3b709a7e48b\",\"syncedAt\":\"2025-06-01T11:39:09.488Z\"}}}</pre>",
+          "note": "<h2 style=\"background-color: #ff666680;\">Do not modify or delete!</h2>\n<p>This link attachment serves as a reference for\n<a href=\"https://github.com/dvanoni/notero\">Notero</a>\nso that it can properly update the Notion page for this item.</p>\n<p>Last synced: 6/9/2025, 5:17:30 PM</p>\n<pre id=\"notero-synced-notes\">{\"containerBlockID\":\"2053c3c2-f8f2-81b2-a956-dfcd0e57ca19\",\"notes\":{\"TAYYXXX5\":{\"blockID\":\"2053c3c2-f8f2-8104-92c2-f3b709a7e48b\",\"syncedAt\":\"2025-06-01T11:39:09.488Z\"}}}</pre>",
           "tags": [],
           "relations": {},
           "dateAdded": "2024-03-26T18:03:50Z",
-          "dateModified": "2025-06-06T16:22:12Z",
+          "dateModified": "2025-06-09T15:17:30Z",
           "uri": "http://zotero.org/users/13675710/items/EAL6UCBK"
         },
         {
@@ -4790,34 +4805,22 @@
       ],
       "tags": [
         {
-          "tag": "1D input"
-        },
-        {
           "tag": "Anomaly detection"
-        },
-        {
-          "tag": "Anomaly Score: Dynamic"
         },
         {
           "tag": "Autoencoder"
         },
         {
-          "tag": "bearings"
-        },
-        {
-          "tag": "Interpretability: Not addressed"
-        },
-        {
-          "tag": "MLP"
-        },
-        {
-          "tag": "Multivariate"
-        },
-        {
           "tag": "notion"
         },
         {
-          "tag": "Reconstruction"
+          "tag": "1D input"
+        },
+        {
+          "tag": "bearings"
+        },
+        {
+          "tag": "Multivariate"
         },
         {
           "tag": "RPlan: A"
@@ -4826,7 +4829,19 @@
           "tag": "Single entity"
         },
         {
+          "tag": "Reconstruction"
+        },
+        {
+          "tag": "Anomaly Score: Dynamic"
+        },
+        {
           "tag": "Unsupervised"
+        },
+        {
+          "tag": "Interpretability: Not addressed"
+        },
+        {
+          "tag": "MLP"
         }
       ],
       "relations": {},
@@ -4927,25 +4942,25 @@
       ],
       "tags": [
         {
-          "tag": "1D input"
-        },
-        {
           "tag": "Anomaly detection"
-        },
-        {
-          "tag": "Anomaly Score: Static"
-        },
-        {
-          "tag": "Autoencoder"
-        },
-        {
-          "tag": "Classified"
         },
         {
           "tag": "Deep Learning"
         },
         {
-          "tag": "Diesel engine"
+          "tag": "Autoencoder"
+        },
+        {
+          "tag": "notion"
+        },
+        {
+          "tag": "1D input"
+        },
+        {
+          "tag": "Classified"
+        },
+        {
+          "tag": "Read"
         },
         {
           "tag": "Good theory explanation (PHM)"
@@ -4954,28 +4969,28 @@
           "tag": "Industrial data"
         },
         {
-          "tag": "Interpretability: Not addressed"
-        },
-        {
-          "tag": "MLP"
-        },
-        {
           "tag": "Multivariate"
-        },
-        {
-          "tag": "notion"
-        },
-        {
-          "tag": "Read"
-        },
-        {
-          "tag": "Reconstruction"
         },
         {
           "tag": "RPlan: A"
         },
         {
+          "tag": "Diesel engine"
+        },
+        {
           "tag": "Single entity"
+        },
+        {
+          "tag": "Anomaly Score: Static"
+        },
+        {
+          "tag": "Reconstruction"
+        },
+        {
+          "tag": "Interpretability: Not addressed"
+        },
+        {
+          "tag": "MLP"
         }
       ],
       "relations": {},
@@ -4986,7 +5001,7 @@
       "attachments": [
         {
           "key": "6JEF8DKY",
-          "version": 8731,
+          "version": 9382,
           "itemType": "attachment",
           "title": "Notion",
           "url": "notion://www.notion.so/Yu-et-al-2022-2033c3c2f8f281698d9eee828e61d746",
@@ -4995,11 +5010,11 @@
           "linkMode": "linked_url",
           "contentType": "",
           "charset": "",
-          "note": "<h2 style=\"background-color: #ff666680;\">Do not modify or delete!</h2>\n<p>This link attachment serves as a reference for\n<a href=\"https://github.com/dvanoni/notero\">Notero</a>\nso that it can properly update the Notion page for this item.</p>\n<p>Last synced: 6/6/2025, 18:51:00</p>\n<pre id=\"notero-synced-notes\">{\"containerBlockID\":\"20a3c3c2-f8f2-81c5-bd2d-d289d1115017\",\"notes\":{\"YKZ3JCAS\":{\"blockID\":\"20a3c3c2-f8f2-81e9-bb38-cdf3fb449d9c\",\"syncedAt\":\"2025-06-06T09:28:11.331Z\"}}}</pre>",
+          "note": "<h2 style=\"background-color: #ff666680;\">Do not modify or delete!</h2>\n<p>This link attachment serves as a reference for\n<a href=\"https://github.com/dvanoni/notero\">Notero</a>\nso that it can properly update the Notion page for this item.</p>\n<p>Last synced: 6/9/2025, 5:17:59 PM</p>\n<pre id=\"notero-synced-notes\">{\"containerBlockID\":\"20a3c3c2-f8f2-81c5-bd2d-d289d1115017\",\"notes\":{\"YKZ3JCAS\":{\"blockID\":\"20a3c3c2-f8f2-81e9-bb38-cdf3fb449d9c\",\"syncedAt\":\"2025-06-06T09:28:11.331Z\"}}}</pre>",
           "tags": [],
           "relations": {},
           "dateAdded": "2025-05-30T15:45:22Z",
-          "dateModified": "2025-06-06T16:51:00Z",
+          "dateModified": "2025-06-09T15:17:59Z",
           "uri": "http://zotero.org/users/13675710/items/6JEF8DKY"
         },
         {
@@ -5106,40 +5121,40 @@
       ],
       "tags": [
         {
-          "tag": "2D input"
-        },
-        {
           "tag": "Anomaly detection"
-        },
-        {
-          "tag": "Anomaly Score: Static"
-        },
-        {
-          "tag": "Ensemble (CNN + Attention + LSTM)"
-        },
-        {
-          "tag": "Multivariate"
         },
         {
           "tag": "notion"
         },
         {
-          "tag": "Output residuals"
+          "tag": "2D input"
         },
         {
-          "tag": "Power plant"
-        },
-        {
-          "tag": "Reconstruction"
+          "tag": "Multivariate"
         },
         {
           "tag": "RPlan: A"
         },
         {
+          "tag": "Output residuals"
+        },
+        {
           "tag": "Single entity"
         },
         {
+          "tag": "Anomaly Score: Static"
+        },
+        {
+          "tag": "Reconstruction"
+        },
+        {
+          "tag": "Ensemble (CNN + Attention + LSTM)"
+        },
+        {
           "tag": "U-net"
+        },
+        {
+          "tag": "Power plant"
         }
       ],
       "relations": {},
@@ -5242,19 +5257,7 @@
       ],
       "tags": [
         {
-          "tag": "1D input"
-        },
-        {
-          "tag": "3D printer"
-        },
-        {
           "tag": "Anomaly detection"
-        },
-        {
-          "tag": "Anomaly Score: Static"
-        },
-        {
-          "tag": "Autoencoder"
         },
         {
           "tag": "Deep Learning"
@@ -5263,31 +5266,43 @@
           "tag": "Fault prediction"
         },
         {
+          "tag": "SCADA data"
+        },
+        {
+          "tag": "Autoencoder"
+        },
+        {
+          "tag": "notion"
+        },
+        {
+          "tag": "3D printer"
+        },
+        {
+          "tag": "1D input"
+        },
+        {
+          "tag": "Multivariate"
+        },
+        {
+          "tag": "RPlan: A"
+        },
+        {
           "tag": "High rated"
+        },
+        {
+          "tag": "Single entity"
+        },
+        {
+          "tag": "Anomaly Score: Static"
+        },
+        {
+          "tag": "Reconstruction"
         },
         {
           "tag": "Interpretability: Not addressed"
         },
         {
           "tag": "MLP"
-        },
-        {
-          "tag": "Multivariate"
-        },
-        {
-          "tag": "notion"
-        },
-        {
-          "tag": "Reconstruction"
-        },
-        {
-          "tag": "RPlan: A"
-        },
-        {
-          "tag": "SCADA data"
-        },
-        {
-          "tag": "Single entity"
         }
       ],
       "relations": {},
@@ -5298,7 +5313,7 @@
       "attachments": [
         {
           "key": "43EID6P6",
-          "version": 8736,
+          "version": 9381,
           "itemType": "attachment",
           "title": "Notion",
           "url": "notion://www.notion.so/Zhang-et-al-2019-6626521bd0544a3c8df6dc38cc40cfa6",
@@ -5307,11 +5322,11 @@
           "linkMode": "linked_url",
           "contentType": "",
           "charset": "",
-          "note": "<h2 style=\"background-color: #ff666680;\">Do not modify or delete!</h2>\n<p>This link attachment serves as a reference for\n<a href=\"https://github.com/dvanoni/notero\">Notero</a>\nso that it can properly update the Notion page for this item.</p>\n<p>Last synced: 6/6/2025, 18:51:29</p>\n<pre id=\"notero-synced-notes\">{\"containerBlockID\":\"2053c3c2-f8f2-81f4-afd2-cfd2aef3ac59\",\"notes\":{\"Y745M7BQ\":{\"blockID\":\"2053c3c2-f8f2-81b9-9f40-f8407fa5ca60\",\"syncedAt\":\"2025-06-01T10:21:09.992Z\"}}}</pre>",
+          "note": "<h2 style=\"background-color: #ff666680;\">Do not modify or delete!</h2>\n<p>This link attachment serves as a reference for\n<a href=\"https://github.com/dvanoni/notero\">Notero</a>\nso that it can properly update the Notion page for this item.</p>\n<p>Last synced: 6/9/2025, 5:17:55 PM</p>\n<pre id=\"notero-synced-notes\">{\"containerBlockID\":\"2053c3c2-f8f2-81f4-afd2-cfd2aef3ac59\",\"notes\":{\"Y745M7BQ\":{\"blockID\":\"2053c3c2-f8f2-81b9-9f40-f8407fa5ca60\",\"syncedAt\":\"2025-06-01T10:21:09.992Z\"}}}</pre>",
           "tags": [],
           "relations": {},
           "dateAdded": "2024-03-16T13:40:26Z",
-          "dateModified": "2025-06-06T16:51:29Z",
+          "dateModified": "2025-06-09T15:17:55Z",
           "uri": "http://zotero.org/users/13675710/items/43EID6P6"
         },
         {
@@ -5377,43 +5392,28 @@
       ],
       "tags": [
         {
-          "tag": "2D input"
-        },
-        {
           "tag": "Anomaly detection"
-        },
-        {
-          "tag": "Anomaly Score: Static"
         },
         {
           "tag": "Autoencoder"
         },
         {
-          "tag": "Classified"
-        },
-        {
-          "tag": "Clean noise in training data"
-        },
-        {
-          "tag": "Generic / Benchmark data"
-        },
-        {
-          "tag": "Good Autoencoder theory"
-        },
-        {
-          "tag": "Interpretability: Not addressed"
-        },
-        {
-          "tag": "MLP"
-        },
-        {
           "tag": "notion"
+        },
+        {
+          "tag": "Classified"
         },
         {
           "tag": "Read"
         },
         {
-          "tag": "Reconstruction"
+          "tag": "2D input"
+        },
+        {
+          "tag": "Good Autoencoder theory"
+        },
+        {
+          "tag": "Clean noise in training data"
         },
         {
           "tag": "RPlan: B"
@@ -5422,7 +5422,22 @@
           "tag": "Single entity"
         },
         {
+          "tag": "Anomaly Score: Static"
+        },
+        {
+          "tag": "Generic / Benchmark data"
+        },
+        {
+          "tag": "Reconstruction"
+        },
+        {
+          "tag": "Interpretability: Not addressed"
+        },
+        {
           "tag": "Univariate"
+        },
+        {
+          "tag": "MLP"
         }
       ],
       "relations": {},
@@ -5433,20 +5448,20 @@
       "attachments": [
         {
           "key": "2SQ7N6BV",
-          "version": 8726,
+          "version": 9381,
           "itemType": "attachment",
           "title": "Notion",
-          "url": "notion://www.notion.so/Zhou-y-Paffenroth-2017-3d4b379792e444018627848c5acb8c6b",
+          "url": "notion://www.notion.so/Zhou-and-Paffenroth-2017-3d4b379792e444018627848c5acb8c6b",
           "accessDate": "2024-03-16T13:40:05Z",
           "parentItem": "8EQIGVE8",
           "linkMode": "linked_url",
           "contentType": "",
           "charset": "",
-          "note": "<h2 style=\"background-color: #ff666680;\">Do not modify or delete!</h2>\n<p>This link attachment serves as a reference for\n<a href=\"https://github.com/dvanoni/notero\">Notero</a>\nso that it can properly update the Notion page for this item.</p>\n<p>Last synced: 6/6/2025, 18:50:05</p>\n<pre id=\"notero-synced-notes\">{\"containerBlockID\":\"20a3c3c2-f8f2-819d-9d39-e713567ff738\",\"notes\":{\"HZV6SYLP\":{\"blockID\":\"20a3c3c2-f8f2-814f-a367-f8fd0b1681c5\",\"syncedAt\":\"2025-06-06T16:22:03.585Z\"}}}</pre>",
+          "note": "<h2 style=\"background-color: #ff666680;\">Do not modify or delete!</h2>\n<p>This link attachment serves as a reference for\n<a href=\"https://github.com/dvanoni/notero\">Notero</a>\nso that it can properly update the Notion page for this item.</p>\n<p>Last synced: 6/9/2025, 5:18:01 PM</p>\n<pre id=\"notero-synced-notes\">{\"containerBlockID\":\"20a3c3c2-f8f2-819d-9d39-e713567ff738\",\"notes\":{\"HZV6SYLP\":{\"blockID\":\"20a3c3c2-f8f2-814f-a367-f8fd0b1681c5\",\"syncedAt\":\"2025-06-06T16:22:03.585Z\"}}}</pre>",
           "tags": [],
           "relations": {},
           "dateAdded": "2024-03-16T13:40:05Z",
-          "dateModified": "2025-06-06T16:50:05Z",
+          "dateModified": "2025-06-09T15:18:01Z",
           "uri": "http://zotero.org/users/13675710/items/2SQ7N6BV"
         },
         {
